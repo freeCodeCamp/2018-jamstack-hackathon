@@ -41,11 +41,6 @@ Winners will be announced in the Slack channel #announcements around 5:00pm.
 This is your time to stop coding, chill, eat, and watch the top 6 teams show off their projects on video
 
 
-## Special Presentation
-**6:45, Main Stage**
-#### "React is a Business Decision"
-Ian Sinnott, Senior Engineer at TruStar
-
 ## Top 3 Teams Presentation
 **7:20, Main Stage**
 
@@ -72,7 +67,7 @@ Feel free to stick around and mingle for an hour or so
 Once we get into the swing of things, actual times such as the API Awards and Presentations may vary. Please note that time for your **Qualifying Pitch** will **not** vary.
 
 # Top 3 Presentations: Presentation Guideline
-This is a guideline only, feel free to deviate as you wish 
+This is a guideline only, feel free to deviate as you wish
 
 ### The Setup (1 Min)
 Introduce:
