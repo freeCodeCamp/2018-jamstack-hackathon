@@ -1,7 +1,7 @@
 # Judging Protocol & Schedule
 
 ### API Sponsors
-If you are using one of the sponsored API's/Services, please list your project [here](https://docs.google.com/spreadsheets/d/1-_5Eqf50zVhewO-NVNBrYfEV_L3rRCi_GtlMZVtcex0/edit?usp=sharing)
+If you are using one of the sponsored API's/Services, please list your project [here](https://docs.google.com/spreadsheets/d/13Yq8WBdu4jcMhrYZwljeWYk90-TdFAi4QcFvNCr5R80/edit?usp=sharing)
 
 ## Qualifying Pitches
 **3:00 - 5:00pm, Main Stage**
