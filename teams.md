@@ -32,6 +32,16 @@ STYLE GUIDE:
 
 ***
 
+
+# Hubtype
+### Botonic is to messaging what React Native is to mobile, a framework that allows you to build chatbots for messaging apps with React.
+* Teammates: Eric
+* Seeking Teammates: No
+* [Project URL](https://github.com/hubtype/botonic)
+* Botonic
+
+***
+
 # Snevil
 ### We're making an app for musicians to jam together.
 * Teammates: Hayden Marx (@hayden marx), Jake Shasteen (@jake), Nuno Neves (@nuno), SJ Lee (), Will Putnam (@wsputnam)
