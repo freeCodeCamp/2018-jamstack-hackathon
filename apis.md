@@ -108,24 +108,35 @@ http://netlify.com/docs
 # TokBox
 #### Quick Description
 
+Easy to use API for embedding WebRTC-based interactive live video into your web and mobile apps. 
 
 ### Purpose
 
+Allow your app users to communicate and be seen with Live Video.
 
-##### REST API endpoint:
+The TokBox API builds on WebRTC and is available for JavaScript (browsers), iOS, Android and Windows. We have ReactJS and ReactNative sample code showing how to use the APIs within React. Modern browsers, including Chrome, Firefox and Safari, have WebRTC built-in and so JS apps can be easily run with no plugins. Mobile deploymemts simply include our SDKs.
 
+In addition to live video and voice, the API also provides screensharing, session recording, inter-client signaling, chat/messaging and other capabilities.
+
+The TokBox cloud platform (PaaS) scales from one-to-one video interactions to large multi-party video chat sessions to interactive broadcasts to huge audiences, including concurrent streaming to Facebook, YouTube and Twitch. TokBox is trusted by thousands of global customers including leading social media apps and industry apps in Healthcare, eLearning, Financial Services and Entertainment.
 
 ### Challenges
 
+Live Video augments the user experience of your app, so dev challenge is to think through your UX and when and how video communications enhances workflows and processes your users need to perform within your overall app design.
+
+Social use-cases tend to emphasize users meeting ad-hoc and communicating between themselves while industry use-cases tend to emphasize well-defined moments such as doctor/patient consultations and eLearning classrooms with teachers and many students.
 
 ### Docs
 
+Get started on our Hackathon page, which has all the links: https://tokbox.com/hackathon
+
+Join the #tokbox channel on Slack and come talk to Manik and Aaron at the event!
 
 ### Video tutorial
 
-
 ### Prizes
 
+$250 Prize for the team showing the best use of Live Video in a Web or Mobile App using our OpenTok APIs, including OpenTok ReactJS or OpenTok ReactNative. Prize provided in multiple Visa and Amazon gift cards that can be distributed between team members.
 
 ***
 
