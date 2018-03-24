@@ -22,3 +22,12 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# Juiceathon
+### tbd
+* Teammates: Albert Wong (@wongal5), Jackie Jou (@jackiejou), Derrick Cross (@decross1)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Juiceathon/cheers)
+* tbd
+
+*** (be sure to include these three stars at the bottom for a horizontal rule)
