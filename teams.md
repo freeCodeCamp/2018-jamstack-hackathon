@@ -27,7 +27,7 @@ STYLE GUIDE:
 ### Platform for coaching noobs to get one-on-one coaching from seasoned vets
 * **Teammates**: Albert Wong (@wongal5), Jackie Jou (@jackiejou), Derrick Cross (@decross1)
 * **Seeking Teammates**: No
-* [Project URL](https://github.com/Juiceathon/cheers)
+* [Project URL](https://github.com/Juiceathon/Noobvolution)
 * Noobvolution
 
 *** 
