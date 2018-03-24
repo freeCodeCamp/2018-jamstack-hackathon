@@ -31,3 +31,12 @@ STYLE GUIDE:
 * tbd
 
 ***
+
+# Snevil
+### We're making an app for musicians to jam together.
+* Teammates: Hayden Marx (@hayden marx), Jake Shasteen (@jake), Nuno Neves (@nuno), SJ Lee (), Will Putnam (@wsputnam)
+* Seeking Teammates: No
+* [Project URL](https://github.com/JamRoulette/JamRoulette)
+* Project Name: JamRoulette
+
+***
