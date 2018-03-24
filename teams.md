@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR and tag `@BerkeleyTrue` in the comments of that PR.
+### Create a PR and tag `@dunphyben` in the comments of that PR.
 
 STYLE GUIDE:  
 ```
