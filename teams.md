@@ -25,8 +25,8 @@ STYLE GUIDE:
 
 # Team People
 ### tbd
-* Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright), Leland Barton
-* Seeking Teammates: Yes
+* Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright), Leland Barton, Jeff Mathis
+* Seeking Teammates: Probably No
 * No project URL yet
 * tbd
 
