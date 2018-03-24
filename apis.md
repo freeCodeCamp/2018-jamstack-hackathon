@@ -29,32 +29,23 @@ Listed here are the APIs for your use.
 
 ***
 
-# Netlify
-#### Quick Description
-Netlify provides [Continuous Delivery](https://www.netlify.com/docs/continuous-deployment), 1-click HTTPS, [Custom Domains](https://www.netlify.com/docs/custom-domains/), integrated prerendering, and a custom global CDN.
+## Netlify
+Netlify automates deployment for your frontend, serving your apps and sites over our custom global Content Delivery Network. You won't need server-side rendering with our integrated [prerendering](https://www.netlify.com/docs/prerendering), [proxy redirects](https://www.netlify.com/docs/redirects), [form handling](https://www.netlify.com/docs/form-handling), [user authentication](https://www.netlify.com/docs/identity), [serverless Lambda functions](https://www.netlify.com/docs/functions), and more.
 
 ### Purpose
-[Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration.
-
-Netlify improves your workflow with Deploy Previews that work by deploying every pull request from your git repository to a unique URL; completely different from the one your main site uses. You and your team can see how those changes look before they’re merged into the main branch and deployed to production.
-
-To help you discover Deploy Previews, we put those links where it helps your team the most, directly in the pull request as commit statuses:
-
-![](https://cdn.netlify.com/4d4d418736774eaea776b4ab08ee07af4a0bc5a9/c6be8/img/blog/deploy-preview-success.png)
-
-We keep this preview up to date as you continue to work, committing new changes to the same branch. Our CDN takes care of invalidating the cache every time for you.
+Developers everywhere are using the [JAMstack](https://www.quora.com/What-is-the-concept-behind-JAMstack) approach to connect blazing fast frontends to a growing array of microservice APIs. There are lots of advantages to this, but sometimes you need to run a bit of server-side code. It's not worth running a whole server for, and that approach doesn't scale well, anyway. Serverless functions services like AWS Lambda are perfect for this, and Netlify's [new functions add-on](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/) makes it easy to deploy, test, and access your Lambda functions right alongside the rest of your app.
 
 ### Challenge
+We are looking for the most interesting app using Netlify's integrated Lambda [functions](https://www.netlify.com/docs/functions).
 
+To be eligible for the prize, your app must be deployed to Netlify, and use at least one Lambda function.
 
-### Docs
-http://netlify.com/docs
-
-### Video tutorial
-- [Getting Started with the UI](https://www.youtube.com/watch?v=9sfTsX03UgI&t=4s)
-- [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
+### Presentation slides
+Find links to all the docs!
+http://hack2018.netlify.com
 
 ### Prizes
+$300 Amazon gift card split between team members
 
 ***
 
