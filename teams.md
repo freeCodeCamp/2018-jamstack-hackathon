@@ -31,3 +31,12 @@ STYLE GUIDE:
 * tbd
 
 ***
+
+# Hubtype
+### Botonic is to messaging what React Native is to mobile, a framework that allows you to build chatbots for messaging apps with React.
+* Teammates: Eric
+* Seeking Teammates: No
+* [Project URL](https://github.com/hubtype/botonic)
+* Botonic
+
+***
