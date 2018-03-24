@@ -22,3 +22,12 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# Team People
+### tbd
+* Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright), Leland Barton
+* Seeking Teammates: Yes
+* No project URL yet
+* tbd
+
+***
