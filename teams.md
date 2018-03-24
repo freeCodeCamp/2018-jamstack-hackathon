@@ -32,6 +32,13 @@ STYLE GUIDE:
 
 ***
 
+# Team Name TBD
+### We're building an app for musicians and bands to live stream audio or video and for users to watch it live or as a playback.
+* Teammates: Isak Mladanoff (@isak), AJ Ansel (@ajansel), David Webster (@David Webster), Jesse Wong (@hesse), Andres Alfaro (@Andres Alfaro), Aaron Wayne (@niartenyaw).
+* Seeking Teammates: No
+* [Project URL](https://github.com/mladenoff/reactathon-2018)
+* Project Name TBD
+
 # Orange Box
 ### tbd
 * Teammates: Andrew Kang (@Andrew Kang), Derrick Zhang (@Derrick_Zhang), Larry Chang (@lchang2190), Stephen Choe (@stphnchoe)
