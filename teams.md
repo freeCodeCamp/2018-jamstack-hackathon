@@ -32,12 +32,23 @@ STYLE GUIDE:
 
 ***
 
+# Team Nyentek
+### An API-less sponsor, participating for the fun of it
+* **Teammates**: Robbi Garza, Jason Hsu, Jamee Krzanich, Nate MacMillan, Randy Thompson
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/Nyentek)
+* TBD
+
+***
+
 # Team Name TBD
 ### We're building an app for musicians and bands to live stream audio or video and for users to watch it live or as a playback.
 * Teammates: Isak Mladanoff (@isak), AJ Ansel (@ajansel), David Webster (@David Webster), Jesse Wong (@hesse), Andres Alfaro (@Andres Alfaro), Aaron Wayne (@niartenyaw).
 * Seeking Teammates: No
 * [Project URL](https://github.com/mladenoff/reactathon-2018)
 * Project Name TBD
+
+***
 
 # Orange Box
 ### tbd
@@ -74,3 +85,4 @@ STYLE GUIDE:
 * Project Name: JamRoulette
 
 ***
+
