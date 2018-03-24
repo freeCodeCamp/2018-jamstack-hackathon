@@ -30,4 +30,4 @@ STYLE GUIDE:
 * [Project URL](https://github.com/Juiceathon/cheers)
 * tbd
 
-*** (be sure to include these three stars at the bottom for a horizontal rule)
+*** 
