@@ -22,3 +22,12 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# Team People
+### tbd
+* Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright)
+* Seeking Teammates: Yes
+* No project URL yet
+* tbd
+
+*** (be sure to include these three stars at the bottom for a horizontal rule)
