@@ -61,22 +61,40 @@ http://netlify.com/docs
 
 # Hasura
 #### Quick Description
+Hasura provides instant backend APIs for your frontend, a simple `git push` to deploy your app and GraphQL APIs on PostgreSQL without any set up.
 
 
 ### Purpose
+Almost every dynamic Web or Mobile App requires an API to talk to the Database, Authentication for User Identity, some form of File Management and an easy way to deploy.
 
+Hasura makes your development fast with 
+* Instant Backend APIs for Database (GraphQL / HTTP JSON over PostgreSQL)
+* Authentication APIs for multiple providers with a ready to use UI Kit.
+* Filestore APIs to manage file uploads and retreival.
+
+Imagine all of these APIs with permissions / access control defined by you for your application. And just doing a `git push hasura master` to deploy your app.
+
+Hasura has quickstart projects so that you don't have to setup the initial project structure / boilerplate code. Head over to [Hasura Hub](https://hasura.io/hub) for cloning a boilerplate of your choice. For example - [hello-react](https://hasura.io/hub/projects/hasura/hello-react). This will be a ready to deploy project which will give you a hasura-app.io domain for your project, HTTPS enabled, HTTP/2 - gzip supported API Gateway so that its production ready.
 
 
 ### Challenges
 
 
 ### Docs
+- [Getting Started Hasura](https://docs.hasura.io/0.15/manual/getting-started/index.html)
+- [Database](https://docs.hasura.io/0.15/manual/data/index.html)
+- [Authentication](https://docs.hasura.io/0.15/manual/auth/index.html)
 
 
 ### Video tutorial
+- [Introduction to Hasura Data APIs](https://vimeo.com/246571798)
+- [GraphQL APIs over PostgreSQL](https://storage.googleapis.com/hasura-io-assets/website-graphQL-preview.mp4)
 
 
 ### Prizes
+* Best React App on Hasura
+* Best React Native App
+* Best use of GraphQL APIs
 
 
 ***
