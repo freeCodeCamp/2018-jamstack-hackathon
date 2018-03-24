@@ -31,3 +31,9 @@ STYLE GUIDE:
 * tbd
 
 ***
+
+# Team Nyentek
+### An API-less sponsor, participating for the fun of it
+* **Teammates**: Robbi Garza, Jason Hsu, Jamee Krzanich, Nate MacMillan, Randy Thompson
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/Nyentek)
