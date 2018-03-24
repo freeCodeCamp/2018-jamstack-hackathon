@@ -30,4 +30,4 @@ STYLE GUIDE:
 * No project URL yet
 * tbd
 
-*** (be sure to include these three stars at the bottom for a horizontal rule)
+***
