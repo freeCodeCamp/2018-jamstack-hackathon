@@ -23,6 +23,15 @@ STYLE GUIDE:
 
 ***
 
+# Team People
+### tbd
+* Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright), Leland Barton
+* Seeking Teammates: Yes
+* No project URL yet
+* tbd
+
+***
+
 # Snevil
 ### We're making an app for musicians to jam together.
 * Teammates: Hayden Marx (@hayden marx), Jake Shasteen (@jake), Nuno Neves (@nuno), SJ Lee (), Will Putnam (@wsputnam)
