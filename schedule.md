@@ -2,8 +2,8 @@
 
 Note: This schedule is a guideline. Actual times may vary. Watch for announcements in the slack channel `announcements`.
 
-## Saturday, March 11
-9:00 - Doors open  
+## Saturday, March 24
+8:30am - Doors open  
 9:00 - 10:00 - Check-in, coffee, mingle & form teams  
 10:00 - 11:00 - Welcome + Keynote (Main Stage)  
 11:00 - 12:30 - Hacking  
@@ -11,8 +11,8 @@ Note: This schedule is a guideline. Actual times may vary. Watch for announcemen
 1:00 - 6:30 - Hacking  
 7:00pm - Doors close  
 
-## Sunday, March 12
-9:00 - Doors open  
+## Sunday, March 25
+8:30am - Doors open  
 9:00 - 10:00 - Check-in, coffee  
 10:00 - 10:45 - Welcome + Keynote (Main Stage)  
 10:45 - 12:30 - Hacking  
