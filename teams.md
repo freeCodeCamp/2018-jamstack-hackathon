@@ -25,8 +25,8 @@ STYLE GUIDE:
 
 # Juiceathon
 ### tbd
-* Teammates: Albert Wong (@wongal5), Jackie Jou (@jackiejou), Derrick Cross (@decross1)
-* Seeking Teammates: No
+* **Teammates**: Albert Wong (@wongal5), Jackie Jou (@jackiejou), Derrick Cross (@decross1)
+* **Seeking Teammates**: No
 * [Project URL](https://github.com/Juiceathon/cheers)
 * tbd
 
