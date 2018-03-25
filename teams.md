@@ -192,6 +192,20 @@ STYLE GUIDE:
 
 ***
 
+# Game Face
+### A short, competitive party game 
+* Teammates: 
+    - Joey Doyle (@jdoyle5)
+    - Christine Song (@cdisong) 
+    - Edan Lewis (@fishshiz)
+    - Truong Nguyen (@TmNguyen12)
+    - Anna Oh (@AnnaNOh)
+ * Seeking Teammates: No
+ * [Project URL](https://github.com/TmNguyen12/GameFace) 
+ * Project Name: Game Face
+ 
+***
+    
 # Aztec Game Lab
 ### Do you enjoy sharing/making memes with your friends? Make memories in a "react" game, "mème brûlée"!
 * **Teammates**: Brian Vo (@bryevo), Kevin Do (@Kevin-Do), AC De Leon (@acfromspace)
