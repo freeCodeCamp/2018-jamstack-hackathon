@@ -43,13 +43,11 @@ STYLE GUIDE:
 
 ***
 
-# Team People
-### tbd
+# Epic Tripz
+### Find an eperienced travel guide to help plan your next vacation
 * Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright), Leland Barton, Jeff Mathis
 * Seeking Teammates: Probably No
-* No project URL yet
-* tbd
-
+* [Live Site](http://epictripz.com)
 ***
 
 # Team Assemble
