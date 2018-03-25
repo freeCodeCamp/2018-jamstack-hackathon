@@ -191,3 +191,12 @@ STYLE GUIDE:
 * Project Name: TBD
 
 ***
+
+# Aztec Game Lab
+### Do you enjoy sharing/making memes with your friends? Make memories in a "react" game, "mème brûlée"!
+* **Teammates**: Brian Vo (@bryevo), Kevin Do (@Kevin-Do), AC De Leon (@acfromspace)
+* **Seeking Teammates**: Negative!
+* [Project URL](https://github.com/AztecGameLab/Reactathon-2018)
+* **Project name**: mème brûlée
+
+***
