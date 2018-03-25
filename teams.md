@@ -130,6 +130,20 @@ STYLE GUIDE:
 
 ***
 
+# btlgr (bootlegger)
+### An app created to allow global discovery of local artists through multiple streams of an event.
+* Teammates:
+    - Julie Lin (@julielin0812)
+    - Ryan Mapa (@ryan-mapa)
+    - Tyler Wood (@Woodentyler)
+    - Clay Shaw (@itsClay)
+
+* Seeking Teammates: No
+* [Project URL](https://github.com/julielin0812/reactathon2018-btlgr/)
+* Project Name: btlgr
+
+*** 
+
 # Black Egret Studios
 ### Video AMA (TBD) creates an organized, collaborative lecture environment for conference calls by giving the presenter an intuitive interface to queue up speakers and participants.
 * Teammates: Jack Wu, Vickie Chen, Mitch Yin, Tan Loc, Adeel Ahmad, Kangli Cheng, Alvin James Delos Santos
