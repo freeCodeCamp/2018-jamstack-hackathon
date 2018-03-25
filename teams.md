@@ -77,11 +77,11 @@ STYLE GUIDE:
 ***
 
 # Orange Box
-### tbd
+### Livestream video platform for teaching
 * Teammates: Andrew Kang (@Andrew Kang), Derrick Zhang (@Derrick_Zhang), Larry Chang (@lchang2190), Stephen Choe (@stphnchoe)
 * Seeking Teammates: No
 * https://github.com/andrewsjkang/Learn
-* tbd
+* LearnLive
 
 ***
 
