@@ -15,10 +15,10 @@ STYLE GUIDE:
 ```
 ***
 
-# The Style Guide Exemplifiers
-### We're a team that exists solely to show you how to edit this document. Fork this repo and make a PR to add your team at the bottom of the list!
-* **Teammates**: Benjamin Dunphy (@ben), Tom Hanks (@tom)
-* **Seeking Teammates**: No
-* [GitHub URL](https://github.com/your-profile/your-project-name)
-
+# Aztec Game Lab
+### Do you enjoy sharing/making memes with your friends? Make memories in a "react" game, "mème brûlée"!
+* **Teammates**: Brian Vo (@bryevo), Kevin Do (@Kevin-Do), AC De Leon (@acfromspace)
+* **Seeking Teammates**: Negative!
+* [Project URL](https://github.com/AztecGameLab/Reactathon-2018)
+* **Project name**: mème brûlée
 ***
