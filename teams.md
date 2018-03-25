@@ -31,3 +31,12 @@ STYLE GUIDE:
 * tbd
 
 ***
+
+# Team Assemble
+### There are people all around the world who are eager to participate in the tech community but are geographically constrained. Assemble is an event platform that aims to solve that problem.
+* Teammates: Roseanna McFarlane (@Roseanna), Stephen Bennett (@Stephen), Joshua Nelson,(@Joshua), Nicholas Higgins (@Higgs)
+* Seeking Teammates: No
+* [Github URL](https://github.com/RoseannaM/reactathon-2018)
+* Assemble
+
+***
