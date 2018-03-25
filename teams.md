@@ -52,6 +52,14 @@ STYLE GUIDE:
 
 ***
 
+# Team Assemble
+### There are people all around the world who are eager to participate in the tech community but are geographically constrained. Assemble is an event platform that aims to solve that problem.
+* Teammates: Roseanna McFarlane (@Roseanna), Stephen Bennett (@Stephen), Joshua Nelson,(@Joshua), Nicholas Higgins (@Higgs)
+* Seeking Teammates: No
+* [Github URL](https://github.com/RoseannaM/reactathon-2018)
+* Assemble
+
+***
 # Team Nyentek
 ### An API-less sponsor, participating for the fun of it
 * **Teammates**: Robbi Garza, Jason Hsu, Jamee Krzanich, Nate MacMillan, Randy Thompson
@@ -136,5 +144,20 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [Project Url](https://github.com/arpannln/ReactathonProject)
 * Project Name: NotAlone
+
+***
+
+# BlindArrow
+### Finding love in all the right places.
+* Teammates: 
+    - Kai Hsia (@kaihsia)
+    - Nick Tang (@singsai)
+    - Wendy Cheung (@wendy-c)
+    - Joosang Lee (@armlessarcher)
+    - Clarabelle Cheung-Yue (@clarabellecheung-yue)
+    - James Tu (@jmsjtu)
+* Seeking Teammates: No
+* [Project URL](https://github.com/darkside-reactathon2018)
+* Project Name: darkside
 
 ***
