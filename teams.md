@@ -191,3 +191,18 @@ STYLE GUIDE:
 * Project Name: TBD
 
 ***
+
+# Game Face
+### A short, competitive party game 
+* Teammates: 
+    - Joey Doyle (@jdoyle5)
+    - Christine Song (@cdisong) 
+    - Edan Lewis (@fishshiz)
+    - Truong Nguyen (@TmNguyen12)
+    - Anna Oh (@AnnaNOh)
+ * Seeking Teammates: No
+ * [Project URL](https://github.com/TmNguyen12/GameFace) 
+ * Project Name: Game Face
+ 
+ ***
+    
