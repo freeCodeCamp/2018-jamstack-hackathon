@@ -23,6 +23,15 @@ STYLE GUIDE:
 
 ***
 
+# The Big Maacs
+### Fan the flames of curiosity for yourself and for others on this online learning platform using with live and recorded video sessions
+* Teammates: Amer Gheith (@agheith), Ghamoti Anye Angwafo (@grenti), Beth Stevic (@bethstevic), Gil Kwak (@gilkwak), Iris Yu (@iyyu), Muhammad Shoman (@Moe-Shoman)
+* Seeking Teammates: No
+* [Study Buddies](https://github.com/BigMaacs/studybuddies)
+* Project Name: Study Buddies
+
+***
+
 # Team People
 ### tbd
 * Teammates: James Kraus (@James Kraus), Geoff Wright (@Geoff Wright), Leland Barton, Jeff Mathis
