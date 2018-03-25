@@ -3,6 +3,7 @@
 ### Create a PR and tag `@dunphyben` in the comments of that PR.
 
 STYLE GUIDE:  
+
 ```
 # Team name
 ### Less than 160 Characters describing what we're building. Include external links here if desired
@@ -13,6 +14,7 @@ STYLE GUIDE:
 
 *** (be sure to include these three stars at the bottom for a horizontal rule)
 ```
+
 ***
 
 # The Style Guide Exemplifiers

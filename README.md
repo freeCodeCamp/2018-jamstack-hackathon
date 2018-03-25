@@ -26,7 +26,7 @@ Sign up [here](https://join.slack.com/t/hack-reactathon2018/shared_invite/enQtMz
 * Find a teammate or a team in the `team-formation` team
 
 ## Review the APIs
-Review the APIs in the slack group
+Review the APIs in the slack group. Mingle with the API sponsors at their tables 
 
 ## Team Formation
 #### If you have a team
