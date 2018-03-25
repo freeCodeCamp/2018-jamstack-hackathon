@@ -77,11 +77,11 @@ STYLE GUIDE:
 ***
 
 # Orange Box
-### Livestream video platform for teaching
+### tbd
 * Teammates: Andrew Kang (@Andrew Kang), Derrick Zhang (@Derrick_Zhang), Larry Chang (@lchang2190), Stephen Choe (@stphnchoe)
 * Seeking Teammates: No
 * https://github.com/andrewsjkang/Learn
-* LearnLive
+* tbd
 
 ***
 
@@ -105,7 +105,7 @@ STYLE GUIDE:
 
 # Snevil
 ### We're making an app for musicians to jam together.
-* Teammates: Hayden Marx (@hayden marx), Jake Shasteen (@jake), Nuno Neves (@nuno), SJ Lee (@seungjulee), Will Putnam (@wsputnam)
+* Teammates: Hayden Marx (@hayden marx), Jake Shasteen (@jake), Nuno Neves (@nuno), SJ Lee (), Will Putnam (@wsputnam)
 * Seeking Teammates: No
 * [Project URL](https://github.com/JamRoulette/JamRoulette)
 * Project Name: JamRoulette
@@ -192,20 +192,6 @@ STYLE GUIDE:
 
 ***
 
-# Game Face
-### A short, competitive party game 
-* Teammates: 
-    - Joey Doyle (@jdoyle5)
-    - Christine Song (@cdisong) 
-    - Edan Lewis (@fishshiz)
-    - Truong Nguyen (@TmNguyen12)
-    - Anna Oh (@AnnaNOh)
- * Seeking Teammates: No
- * [Project URL](https://github.com/TmNguyen12/GameFace) 
- * Project Name: Game Face
- 
-***
-    
 # Aztec Game Lab
 ### Do you enjoy sharing/making memes with your friends? Make memories in a "react" game, "mème brûlée"!
 * **Teammates**: Brian Vo (@bryevo), Kevin Do (@Kevin-Do), AC De Leon (@acfromspace)
@@ -214,3 +200,11 @@ STYLE GUIDE:
 * **Project name**: mème brûlée
 
 ***
+
+# typeof team === 'undefined'
+### twitch style chat replay for video conference archives
+* **Teammates**: Tim Gallant, Clinton Reece, Aram Danakian
+* **Seeking Teammates**: No
+* [Frontend](https://github.com/ardanak/tokbox-replay)
+* [Backend](https://github.com/tgallant/chat_replay_api)
+* **Project name**: TBD
