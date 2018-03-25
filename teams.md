@@ -122,3 +122,18 @@ STYLE GUIDE:
 
 ***
 
+# BlindArrow
+### Finding love in all the right places.
+* Teammates: 
+    - Kai Hsia (@kaihsia)
+    - Nick Tang (@singsai)
+    - Wendy Cheung (@wendy-c)
+    - Joosang Lee (@armlessarcher)
+    - Clarabelle Cheung-Yue (@clarabellecheung-yue)
+    - James Tu (@jmsjtu)
+* Seeking Teammates: No
+* [Project URL](https://github.com/darkside-reactathon2018)
+* Project Name: darkside
+
+***
+
