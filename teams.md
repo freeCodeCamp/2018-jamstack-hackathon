@@ -161,3 +161,12 @@ STYLE GUIDE:
 * Project Name: darkside
 
 ***
+
+# Solothon
+### A way for API/service providers to give efficent remote video support to Hackathon teams
+* Teammates: Huy Zing (@huy)
+* Seeking Teammates: No
+* [Project URL](https://github.com/huyz/hack-reactathon-2018)
+* Project Name: TBD
+
+***
