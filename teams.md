@@ -67,12 +67,12 @@ STYLE GUIDE:
 
 ***
 
-# Team Name TBD
-### We're building an app for musicians and bands to live stream audio or video and for users to watch it live or as a playback.
+# teamWillReceiveProps
+### We're building an app for musicians and bands to share live music.
 * Teammates: Isak Mladanoff (@isak), AJ Ansel (@ajansel), David Webster (@David Webster), Jesse Wong (@hesse), Andres Alfaro (@Andres Alfaro), Aaron Wayne (@niartenyaw).
 * Seeking Teammates: No
 * [Project URL](https://github.com/mladenoff/reactathon-2018)
-* Project Name TBD
+* Project HearHere
 
 ***
 
@@ -192,6 +192,29 @@ STYLE GUIDE:
 
 ***
 
+# Hackevents
+### A way to easily see the number of available spots in local events so you can sign up before they fill up.
+* Teammates: David (@David Adler), Michael (@Michael Campos), Neil (@neil), Vince (@Vincent Song), Tiffany (@tymeart)
+* Seeking Teammates: No
+* [Project URL](https://github.com/mfbx9da4/sf-hotevents)
+* SF Hot Events
+
+*** 
+
+# Game Face
+### A short, competitive party game 
+* Teammates: 
+    - Joey Doyle (@jdoyle5)
+    - Christine Song (@cdisong) 
+    - Edan Lewis (@fishshiz)
+    - Truong Nguyen (@TmNguyen12)
+    - Anna Oh (@AnnaNOh)
+ * Seeking Teammates: No
+ * [Project URL](https://github.com/TmNguyen12/GameFace) 
+ * Project Name: Game Face
+ 
+***
+    
 # Aztec Game Lab
 ### Do you enjoy sharing/making memes with your friends? Make memories in a "react" game, "mème brûlée"!
 * **Teammates**: Brian Vo (@bryevo), Kevin Do (@Kevin-Do), AC De Leon (@acfromspace)
