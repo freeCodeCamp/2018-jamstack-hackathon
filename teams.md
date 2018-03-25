@@ -122,3 +122,16 @@ STYLE GUIDE:
 
 ***
 
+# btlgr (bootlegger)
+### An app created to allow global discovery of local artists through multiple streams of an event.
+* Teammates:
+    - Julie Lin (@julielin0812)
+    - Ryan Mapa (@ryan-mapa)
+    - Tyler Wood (@Woodentyler)
+    - Clay Shaw (@itsClay)
+
+* Seeking Teammates: No
+* [Project URL](https://github.com/julielin0812/reactathon2018-btlgr/)
+* Project Name: btlgr
+
+*** (be sure to include these three stars at the bottom for a horizontal rule)
