@@ -188,7 +188,7 @@ STYLE GUIDE:
 * Teammates: Huy Zing (@huy)
 * Seeking Teammates: No
 * [Project URL](https://github.com/huyz/hack-reactathon-2018)
-* Project Name: TBD
+* Project Name: Help A Hacker
 
 ***
 
