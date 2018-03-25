@@ -192,6 +192,15 @@ STYLE GUIDE:
 
 ***
 
+# Hackevents
+### A way to easily see the number of available spots in local events so you can sign up before they fill up.
+* Teammates: David (@David Adler), Michael (@Michael Campos), Neil (@neil), Vince (@Vincent Song), Tiffany (@tymeart)
+* Seeking Teammates: No
+* [Project URL](https://github.com/mfbx9da4/sf-hotevents)
+* SF Hot Events
+
+*** 
+
 # Game Face
 ### A short, competitive party game 
 * Teammates: 
@@ -214,3 +223,4 @@ STYLE GUIDE:
 * **Project name**: mème brûlée
 
 ***
+
