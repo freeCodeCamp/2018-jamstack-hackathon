@@ -122,3 +122,12 @@ STYLE GUIDE:
 
 ***
 
+# Black Egret Studios
+### Video AMA (TBD) creates an organized, collaborative lecture environment for conference calls by giving the presenter an intuitive interface to queue up speakers and participants.
+* Teammates: Jack Wu, Vickie Chen, Mitch Yin, Tan Loc, Adeel Ahmad, Kangli Cheng, Alvin James Delos Santos
+* Seeking Teammates: No
+* [Video AMA](https://github.com/CelesteComet/besthack)
+* Video AMA (TBD)
+
+***
+
