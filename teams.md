@@ -3,6 +3,7 @@
 ### Create a PR and tag `@dunphyben` in the comments of that PR.
 
 STYLE GUIDE:  
+
 ```
 # Team name
 ### Less than 160 Characters describing what we're building. Include external links here if desired
@@ -13,6 +14,7 @@ STYLE GUIDE:
 
 *** (be sure to include these three stars at the bottom for a horizontal rule)
 ```
+
 ***
 
 # The Style Guide Exemplifiers
@@ -95,3 +97,19 @@ STYLE GUIDE:
 
 ***
 
+
+# NoTow
+### Don't tow me, bro. An app to read those ridiculous parking signs for you.
+* Teammates:
+    - Chris McDermut (@chrismcdermut)
+    - Maria Nguyen (@mariawhen)
+    - Taylor Harwood (@taylorharwood)
+    - Gabe LeVasseur (@gabel0287)
+    - Mariia Rudenko (@RudenkoM)
+    - Nick Rebhun (@nrebhun)
+* Seeking Teammates: No
+* [Frontend](https://github.com/saf-scb/reactathon-client)
+* [Backend](https://github.com/saf-scb/reactathon-api)
+* Project Name: NoTow
+
+***
