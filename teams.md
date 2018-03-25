@@ -130,6 +130,23 @@ STYLE GUIDE:
 
 ***
 
+# NotAlone
+### You're not alone. A web enabled group therapy app to address mental health conditions
+* Teammates:
+    - Chao Cao (@Chao)
+    - Wyatt Rudnicki (@Wyatt)
+    - Arpan NLN (@Arpan)
+    - Joey Feng (@Joey)
+    - Rose Lee (@roselee)
+    - Edward Cheng (@Edward Cheng)
+    - Dylan McCapes (@Dylan McCapes)
+
+* Seeking Teammates: No
+* [Project Url](https://github.com/arpannln/ReactathonProject)
+* Project Name: NotAlone
+
+***
+
 # BlindArrow
 ### Finding love in all the right places.
 * Teammates: 
