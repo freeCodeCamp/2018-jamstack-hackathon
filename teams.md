@@ -23,6 +23,15 @@ STYLE GUIDE:
 
 ***
 
+# Juiceathon
+### Platform for coaching noobs videogamers to get one-on-one coaching from seasoned veterans
+* **Teammates**: Albert Wong (@wongal5), Jackie Jou (@jackiejou), Derrick Cross (@decross1)
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/Juiceathon/Noobvolution)
+* Noobvolution
+
+*** 
+
 # The Big Maacs
 ### Fan the flames of curiosity for yourself and for others on this online learning platform using with live and recorded video sessions
 * Teammates: Amer Gheith (@agheith), Ghamoti Anye Angwafo (@grenti), Beth Stevic (@bethstevic), Gil Kwak (@gilkwak), Iris Yu (@iyyu), Muhammad Shoman (@Moe-Shoman)
@@ -94,4 +103,3 @@ STYLE GUIDE:
 * Project Name: JamRoulette
 
 ***
-
