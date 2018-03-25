@@ -67,12 +67,12 @@ STYLE GUIDE:
 
 ***
 
-# Team Name TBD
-### We're building an app for musicians and bands to live stream audio or video and for users to watch it live or as a playback.
+# teamWillReceiveProps
+### We're building an app for musicians and bands to share live music.
 * Teammates: Isak Mladanoff (@isak), AJ Ansel (@ajansel), David Webster (@David Webster), Jesse Wong (@hesse), Andres Alfaro (@Andres Alfaro), Aaron Wayne (@niartenyaw).
 * Seeking Teammates: No
 * [Project URL](https://github.com/mladenoff/reactathon-2018)
-* Project Name TBD
+* Project HearHere
 
 ***
 
