@@ -52,6 +52,14 @@ STYLE GUIDE:
 
 ***
 
+# Team Assemble
+### There are people all around the world who are eager to participate in the tech community but are geographically constrained. Assemble is an event platform that aims to solve that problem.
+* Teammates: Roseanna McFarlane (@Roseanna), Stephen Bennett (@Stephen), Joshua Nelson,(@Joshua), Nicholas Higgins (@Higgs)
+* Seeking Teammates: No
+* [Github URL](https://github.com/RoseannaM/reactathon-2018)
+* Assemble
+
+***
 # Team Nyentek
 ### An API-less sponsor, participating for the fun of it
 * **Teammates**: Robbi Garza, Jason Hsu, Jamee Krzanich, Nate MacMillan, Randy Thompson
@@ -134,4 +142,54 @@ STYLE GUIDE:
 * [Project URL](https://github.com/julielin0812/reactathon2018-btlgr/)
 * Project Name: btlgr
 
-*** (be sure to include these three stars at the bottom for a horizontal rule)
+*** 
+
+# Black Egret Studios
+### Video AMA (TBD) creates an organized, collaborative lecture environment for conference calls by giving the presenter an intuitive interface to queue up speakers and participants.
+* Teammates: Jack Wu, Vickie Chen, Mitch Yin, Tan Loc, Adeel Ahmad, Kangli Cheng, Alvin James Delos Santos
+* Seeking Teammates: No
+* [Video AMA](https://github.com/CelesteComet/besthack)
+* Video AMA (TBD)
+
+***
+
+# NotAlone
+### You're not alone. A web enabled group therapy app to address mental health conditions
+* Teammates:
+    - Chao Cao (@Chao)
+    - Wyatt Rudnicki (@Wyatt)
+    - Arpan NLN (@Arpan)
+    - Joey Feng (@Joey)
+    - Rose Lee (@roselee)
+    - Edward Cheng (@Edward Cheng)
+    - Dylan McCapes (@Dylan McCapes)
+
+* Seeking Teammates: No
+* [Project Url](https://github.com/arpannln/ReactathonProject)
+* Project Name: NotAlone
+
+***
+
+# BlindArrow
+### Finding love in all the right places.
+* Teammates: 
+    - Kai Hsia (@kaihsia)
+    - Nick Tang (@singsai)
+    - Wendy Cheung (@wendy-c)
+    - Joosang Lee (@armlessarcher)
+    - Clarabelle Cheung-Yue (@clarabellecheung-yue)
+    - James Tu (@jmsjtu)
+* Seeking Teammates: No
+* [Project URL](https://github.com/darkside-reactathon2018)
+* Project Name: darkside
+
+***
+
+# Solothon
+### A way for API/service providers to give efficent remote video support to Hackathon teams
+* Teammates: Huy Zing (@huy)
+* Seeking Teammates: No
+* [Project URL](https://github.com/huyz/hack-reactathon-2018)
+* Project Name: TBD
+
+***
