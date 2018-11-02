@@ -88,7 +88,7 @@ Get started [here](https://serverless.com/framework/docs/)
 # Prerendering Your App
 Prerendering is a process to preload all elements on the page in preparation for a web crawler to see it. A prerender service will intercept a page request to see if the user-agent viewing your site is a bot and if the user-agent is a bot, the prerender middleware will send a cached version of you site to show with all JavaScript, Images, etc are rendered statically.
 
-## Prerender Resources
+### Prerender Resources
 - [Prerender.io](prerender.io)
 - [Brombone](https://www.brombone.com/)
 - [SEO.js](http://getseojs.com/)
@@ -104,4 +104,6 @@ With the JAMstack, the promise of a truly modern web architecture is not just li
 
 What if you could do all of that with a simple `git push`? What if you didn't have to worry about FTP, https, url configuration, SSL, or dealing with the AWS console for your Lambda functions?  
 
-That is what Netlify does for you and more. You can learn more about how to work and deploy with Netlify here: https://www.netlify.com/docs/
+That is what Netlify does for you and more. You can learn more about how to work and deploy with Netlify here: https://www.netlify.com/docs/  
+
+For your project to be considered in this hackathon, you must deploy to Netlify.
