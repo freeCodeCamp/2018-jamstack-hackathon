@@ -102,7 +102,7 @@ Nothing yet, but maybe we'll have one of these posted soon...
 
 ### Prizes
 
-In person participants that use Formspree in their hackathon project are eligible to with a DJI Spark drone!
+In person participants that use Formspree in their hackathon project are eligible to win a DJI Spark drone!
 
 Off-site participants that use Formspree will be eligible to win an Amazon Gift Card worth $200. If Amazon gift cards aren't available in your country we will work with you to come up with an equivalent prize.
 
