@@ -74,12 +74,16 @@ For example:
 </form>
 ```
 
+Try playing around with formspree in our sandbox at https://testformspree.com 
+
 ### Challenges
 
 Get a "contact us" form set up on your website! 
 
 ### Docs
-Using formspree is as easy as the `API endpoint` instructions. However you can have more control of how your forms are handled by formspree by adding special `type="hidden"` inputs. See the docs below for a list of the special input names that you can use. 
+Using formspree is as easy as the `API endpoint` instructions. Try playing around with formspree at https://testformspree.com.
+
+You can have more control of how your forms are handled by formspree by adding special `type="hidden"` inputs. See the docs below for a list of the special input names that you can use. 
 
 https://formspree.io/docs/
 
@@ -87,9 +91,9 @@ You can also find answers to common questions on our help site here:
 
 https://help.formspree.io/
 
-Also we will be here and available to help you. Just look for this goofy guy by the big Formspree banner:
+Finally, we will be here at the hackathon and available to help you. Just look for this goofy guy near the big Formspree banner:
 
-<img src="https://lh3.googleusercontent.com/ocJ3qPMgGIJzONipiMk7NADYM2JHtnV25MqdqFrJrheUHMZYbUT3XAxvDHvHGZeTOu4GAyIUVyPmPDpmImwr6sRI0MUENLfAbGNw9B1dLhjh4elL5wR4FipJRCX7qPYPCK1nzD33310=w1274-h1698-no" width="150px">
+<img src="https://lh3.googleusercontent.com/ocJ3qPMgGIJzONipiMk7NADYM2JHtnV25MqdqFrJrheUHMZYbUT3XAxvDHvHGZeTOu4GAyIUVyPmPDpmImwr6sRI0MUENLfAbGNw9B1dLhjh4elL5wR4FipJRCX7qPYPCK1nzD33310=w1274-h1698-no" width="200px">
 
 
 ### Video tutorial
