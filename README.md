@@ -1,8 +1,21 @@
 # 2018 freeCodeCamp JAMstack Hackathon
+If you want to succeed at this hackathon, please read this document and its subsequent files in their entirety before you begin.
 
-## What is a hackathon?
+## Checklist
 
-A hackathon is an event where people join teams and code together, then show off the projects they built. They usually only last one or two days, and often involve judging and prizes.
+- [ ] Make sure that you have a ticket from Tito. Check your email -- Quincy has emailed your ticket to you.
+- [ ] Join the freeCodeCamp JAMstack Hackathon Discord Group (Quincy has emailed that link to all ticket holders). Please do not share this link with non-participants.
+- [ ] Chat with others in the Discord group to brainstorm ideas and form teams. You will also have time on Saturday morning for this. IMPORTANT: Remote hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
+- [ ] Review this `README.md` file for further instructions and guidelines
+- [ ] Review the [APIs](/apis.md)
+- [ ] Ask questions to API sponsors directly on their Discord channel (i.e. `api-netlify`)
+- [ ] Bring a refillable water bottle
+- [ ] BRING A POWER STRIP to use and share with others! We recommend putting tape on it to write your name.
+- [ ] If you plan on drinking alcohol on Sunday evening during the awards ceremony, you'll need to bring a valid government-issued photo identification showing that you're at least 21 years of age.
+- [ ] Review the resources and recommendations for [Getting Started](/getting-started.md) with the JAMstack.
+- [ ] Review the [Judging Protocol](/judging-protocol.md)
+- Review
+- [ ] Review the [Schedule](/schedule.md)
 
 ## How is this hackathon different?
 
@@ -13,28 +26,25 @@ Most hackathons focus principally on the end-goal -- the product. While this hac
 Building great software isn't just about the code you write. Your planned approach to building it that is equally if not more important. So here's what this means for you as a hacker at this hackathon:
 * Judges will pose a number of questions for you, and share them with you in the Discord group
 * Judges will visit teams and ask you these questions to see how you are handling your approach to building your app. Do you have a plan of action? Are you organized in your list of responsibilities and dividing tasks? Are the goals realistic given the limited time frame?
-* This will take place shortly after lunch.
+* These ad-hoc interviews will take place shortly after lunch on Saturday. We will livestream the
+* Your answers to these questions will be a small percentage of your overall judging score.
 
-
-
-# Hackathon Rules & Guidelines
-Please read this repository in its entirety, including the other files. It includes specific instructions to get set up.
 
 ## Code of Conduct
 By attending the hackathon, or participating remotely, you affirm that you have read and agree to our Code of Conduct, and you will abide by its guidelines laid out here: https://jamstackconf.com/code-of-conduct  
 
-Note: This code applies to both in-person and online interaction.
+Note: This code applies to both in-person and online interaction. Violations will not be tolerated.
 
 ## Purpose
 The Hackathon is designed to be a fun and educational environment. Of course there will also be competition for prizes -- but our main goal is education, building community, and learning to use some cool APIs and technologies!
 
 ## Perks
 
-Thanks exclusively to the generosity of GitHub, you will have coffee, breakfast, lunch, and light dinner on all three days! 👏*applause for GitHub*👏  
+Thanks to the generosity of GitHub, you will have coffee, breakfast, lunch, and light dinner on all three days! 👏*applause for GitHub*👏  
 
 Send them a thank you note for being the most amazing hosts on [Twitter](https://twitter.com/github)!
 
-Once hacking ends on Sunday, we'll celebrate with some beer and wine, and watch the top 6 teams get interviewed, and the top 3 teams present on stage!
+Once hacking ends on Sunday, we'll celebrate with some beer, wine, cocktails and mockatails, and watch the top 6 teams get interviewed. The interviews will be broadcast on the many monitors at GitHub's office. Then we'll reconvene to see the top 3 teams present on stage!
 
 ## Location
 GitHub HQ  
@@ -60,11 +70,11 @@ Review the APIs in the [apis.md](./apis.md) file in this repository. Mingle with
 
 ## Team Formation
 #### If you have a team
-1. List your team in the `teams.md` file in this repo
+1. List your team in the [teams.md](/teams.md) file in this repo
 2. Fork the repo and make a PR to list your team
 3. Follow the style guide for listing your team
 4. Tag `dunphyben` in your PR.
 
 #### If you don't have a team
-1. Browse teams in the `teams.md` file of this repo
+1. Browse teams in the [teams.md](/teams.md) file of this repo
 2. Contact team members via Discord or in-person on Saturday morning

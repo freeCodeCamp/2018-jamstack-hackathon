@@ -1,10 +1,11 @@
 # Getting Started
 
 ### Contents
-[The JAMstack](#the-jamstack)
-[Front-end](#front-end)
-[Cloud Functions aka Serverless](#cloud-functions)
-[Deployment & Continuous Integration](#deployment)
+[The JAMstack](#the-jamstack)  
+[Front-end](#front-end)  
+[Cloud Functions aka Serverless](#cloud-functions)  
+[Pre-rendering your app](#prerendering-your-app)  
+[Deployment & Continuous Integration](#deployment)  
 
 
 # The JAMstack
@@ -51,23 +52,22 @@ For JAMstack sites, even the create-react-app maintainers recommend Gatsby:
 
 Source: https://github.com/facebook/create-react-app
 
-## Vue
-Resources for getting started with Vue coming soon.
 
+## Vue
 ### Education
+1. Beginners: [Why VueJS](https://vuejs.org/)
+2. Beginners: [Getting Started](https://vuejs.org/v2/guide/)
+3. Beginner - Advanced: [VueJS Cookbook](https://vuejs.org/v2/cookbook/)
+4. Beginner - Advanced: [Reactivity System in Vue](https://www.vuemastery.com/courses/advanced-components/build-a-reactivity-system/)
+5. Beginner - Advanced: [Vue CLI](https://cli.vuejs.org/guide/)
+6. Intermediate - Advanced: [VueJS Router](https://router.vuejs.org/)
+7. Intermediate - Advanced: [Vuex](https://vuex.vuejs.org/)
+8. Intermediate - Advanced: [Vue Testing](https://vue-test-utils.vuejs.org/)
+
 
 ### Static Site Generators
-
 #### Vuepress
 A popular static-site generator for Vue. Get started [here](https://vuepress.vuejs.org/).
-
-
-## Angular
-Resources for getting started with Angular coming soon
-
-### Education
-
-### Static Site Generators
 
 
 # Cloud Functions
@@ -84,6 +84,18 @@ Get set up [here](https://www.netlify.com/docs/functions/).
 With the Serverless Framework you can define your entire Serverless application, utilizing popular Serverless technologies like AWS Lambda, with a simple yaml configuration file. You can deploy from a simple CLI interface to popular cloud platforms including AWS, Microsoft Azure, Google Cloud Platform and more.
 
 Get started [here](https://serverless.com/framework/docs/)
+
+# Prerendering Your App
+Prerendering is a process to preload all elements on the page in preparation for a web crawler to see it. A prerender service will intercept a page request to see if the user-agent viewing your site is a bot and if the user-agent is a bot, the prerender middleware will send a cached version of you site to show with all JavaScript, Images, etc are rendered statically.
+
+## Prerender Resources
+- [Prerender.io](prerender.io)
+- [Brombone](https://www.brombone.com/)
+- [SEO.js](http://getseojs.com/)
+- [SEO4Ajax](http://www.seo4ajax.com/)
+- [Prerender.cloud](https://prerender.cloud/)
+- [Prerender SPA npm plugin](https://github.com/chrisvfritz/prerender-spa-plugin)
+- [Netlify Prerendering docs](https://www.netlify.com/docs/prerendering/)
 
 
 # Deployment

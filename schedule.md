@@ -2,7 +2,7 @@
 
 Note: This schedule is a guideline. Actual times may vary. Watch for announcements in the Discord channel `announcements`.
 
-## Saturday, March 24
+## Saturday, November 3
 9:00am - Doors open  
 9:00 - 10:00 - Check-in, coffee, mingle & form teams  
 10:00 - 11:20 - Welcome + Keynote (Main Stage)  
@@ -13,7 +13,7 @@ Note: This schedule is a guideline. Actual times may vary. Watch for announcemen
 6:30 - 8:45 - Hacking  
 9:00pm - Doors close  
 
-## Sunday, March 25
+## Sunday, November 4
 9:00am - Doors open  
 9:00 - 10:00 - Check-in, coffee  
 10:00 - 11:00 - Welcome + Keynote (Main Stage)  
@@ -28,4 +28,4 @@ Note: This schedule is a guideline. Actual times may vary. Watch for announcemen
 7:30 - 8:00 - API Awards Announced  
 8:00 - 8:15 - Top 3 teams Awards Announced  
 8:15 - 9:00 - Mingling  
-9:15pm - Doors close  
+9:30pm - Doors close  
