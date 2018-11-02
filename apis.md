@@ -64,7 +64,7 @@ To use formspree with an existing HTML form you must:
 
 For example:
 
-```
+```html
 <form action="https://formspree.io/your@email.com" method="POST">
   <input type="text" name="name">
   <input type="email" name="_replyto">
@@ -80,6 +80,10 @@ Get a "contact us" form set up on your website!
 Using formspree is as easy as the `API endpoint` instructions. However you can have more control of how your forms are handled by formspree by adding special `type="hidden"` inputs. See the docs below for a list of the special input names that you can use. 
 
 https://formspree.io/docs/
+
+You can also find answers to common questions on our help site here:
+
+https://help.formspree.io/
 
 Also we will be here and available to help you. Just look for this goofy guy by the big Formspree banner:
 
