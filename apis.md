@@ -3,36 +3,7 @@ Listed here are the APIs for your use.
 * Browse the APIs here. Visit docs etc.
 * Meet with the API sponsors at the hackathon, particularly on Saturday morning
 * Communicate with the API sponsors via their dedicated Discord channel.
-
-
-# Netlify
-Netlify automates deployment for your frontend, serving your apps and sites over our custom global Content Delivery Network. You won't need server-side rendering with our integrated [prerendering](https://www.netlify.com/docs/prerendering), [proxy redirects](https://www.netlify.com/docs/redirects), [form handling](https://www.netlify.com/docs/form-handling), [user authentication](https://www.netlify.com/docs/identity), [serverless Lambda functions](https://www.netlify.com/docs/functions), and more.
-
-### Purpose
-Developers everywhere are using the [JAMstack](https://jamstackconf.com/what-is-jamstack) approach to connect blazing fast frontends to a growing array of microservice APIs. There are lots of advantages to this, but sometimes you need to run a bit of server-side code. It's not worth running a whole server for, and that approach doesn't scale well, anyway. Serverless functions services like AWS Lambda are perfect for this, and Netlify's [new functions add-on](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/) makes it easy to deploy, test, and access your Lambda functions right alongside the rest of your app.
-
-### Challenges
-<!-- We are looking for the most interesting app using Netlify's integrated Lambda [functions](https://www.netlify.com/docs/functions).
-
-To be eligible for the prize, your app must be deployed to Netlify, and use at least one Lambda function. -->
-
-### Docs
-https://www.netlify.com/docs/
-
-
-### Video tutorial
-
-
-### Presentation slides
-<!-- Find links to all the docs!
-http://hack2018.netlify.com -->
-
-### Prizes
-
-
-***
-
-
+* Deploy your apps with Netlify. 
 
 # Fauna
 #### Quick Description
