@@ -2,8 +2,9 @@
 If you want to succeed at this hackathon, please read this document and its subsequent files in their entirety before you begin.
 
 ## Checklist
-Please read the following carefully, and act on each item that requires your attention: 
+Please read the following carefully, and act on each item that requires your attention:
 
+- [ ] Fork this repository
 - [ ] Make sure that you have a ticket from Tito. Check your email -- Quincy has emailed your ticket to you.
 - [ ] Join the freeCodeCamp JAMstack Hackathon Discord Group (Quincy has emailed that link to all ticket holders). Please do not share this link with non-participants.
 - [ ] Chat with others in the Discord group to brainstorm ideas and form teams. You will also have time on Saturday morning for this. IMPORTANT: Remote hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
