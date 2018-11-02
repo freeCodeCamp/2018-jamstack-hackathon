@@ -248,6 +248,13 @@ To get inspired, [*checkout how fast an e-commerce site can be*](https://rachio.
 
 ### Docs
 
+#### Get Started
+
+* Register [here](https://merchant.pilon.io/register) and use invitation code `XKC-HACKATHON-JAM` to get connected to Pilon.
+* Checkout our docs and get your JAMstack app authenticated.
+* Checkout our API docs to see what can be done with the platform.
+
+#### Links
 Pilon's main documentation can be accessed at:
 * https://docs.pilon.io/
 
