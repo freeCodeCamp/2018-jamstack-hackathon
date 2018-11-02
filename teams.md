@@ -32,3 +32,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+# "COMING SOON"
+### tbd
+* Teammates:
+    - Jun Sub Choi (@Stard)
+    - Andrew Ngo (@AndyNoAwkward)
+    - David Mai (@2BiK)
+    - Alan Fu (@BrandHeart)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Broke-Bois-Club)
+* Project Name tbd
+
+***
