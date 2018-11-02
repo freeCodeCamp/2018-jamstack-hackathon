@@ -49,31 +49,62 @@ Coming soon.
 ***
 
 # Formspree
-#### Quick Description
-Connect your form to our endpoint and we’ll email you the submissions. No PHP, Javascript or sign up required.
 
+https://formspree.io
 
 ### Purpose
-Formspree is a form backend, API and email service for HTML forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website.
 
+Formspree is a form backend that emails you when someone submits your forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website. Once you connect your form to our endpoint we’ll email you the submissions. No PHP, Javascript or sign up required.
 
-##### API endpoint:
-https://formspree.io/your@email.com
+### API endpoint
+
+To use formspree with an existing HTML form you must:
+
+1. change the `action` of your form to point to `https://formspree.io/<YOUR EMAIL>`
+2. make sure the `method` is `POST`, and
+3. give a `name` attribute to all your `input` tags.
+
+For example:
+
+```html
+<form action="https://formspree.io/your@email.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+```
+
+Try playing around with formspree in our sandbox at https://testformspree.com 
 
 ### Challenges
 
+Get a "contact us" form set up on your website! 
 
 ### Docs
+Using formspree is as easy as the `API endpoint` instructions. Try playing around with formspree at https://testformspree.com.
+
+You can have more control of how your forms are handled by formspree by adding special `type="hidden"` inputs. See the docs below for a list of the special input names that you can use. 
+
 https://formspree.io/docs/
 
+You can also find answers to common questions on our help site here:
+
+https://help.formspree.io/
+
+Finally, we will be here at the hackathon and available to help you. Just look for this goofy guy near the big Formspree banner:
+
+<img src="https://lh3.googleusercontent.com/ocJ3qPMgGIJzONipiMk7NADYM2JHtnV25MqdqFrJrheUHMZYbUT3XAxvDHvHGZeTOu4GAyIUVyPmPDpmImwr6sRI0MUENLfAbGNw9B1dLhjh4elL5wR4FipJRCX7qPYPCK1nzD33310=w1274-h1698-no" width="200px">
+
+
 ### Video tutorial
-
-
-### Presentation slides
+Nothing yet, but maybe we'll have one of these posted soon...
 
 
 ### Prizes
 
+In person participants that use Formspree in their hackathon project are eligible to win a DJI Spark drone!
+
+Off-site participants that use Formspree will be eligible to win an Amazon Gift Card worth $200. If Amazon gift cards aren't available in your country we will work with you to come up with an equivalent prize.
 
 ***
 
