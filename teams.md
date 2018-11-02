@@ -35,10 +35,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 # SmarTea Pants
 ### A trivia study app for contestants who are trying to qualify for the TV gameshow Jeopardy
 * Teammates:
-    - CodeFay (@CodeFay)
+    - Fay Yang (@CodeFay)
     - Colin King-Bailey (@ckingbailey)
 * Seeking Teammates: Yes
-* [Project URL](https://github.com/your-profile/your-project-name)
-* SmarTeaPants
+* [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
 
 ***
