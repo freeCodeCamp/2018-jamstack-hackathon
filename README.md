@@ -66,7 +66,7 @@ See the link sent to your email
 * Pay special attention to `announcements` channel. Do not post here.
 * Ask and answer questions about certain technologies in the `q-and-a-<technology>` channel
 * Have general communication in the `general` channel
-* Find a teammate or a team in the `team-formation` team
+* Find a teammate or a team in the `team-formation-sf-hackathon` channel
 
 ## Review the APIs
 Review the APIs in the [apis.md](./apis.md) file in this repository. Mingle with the API sponsors at their tables and in their Discord channels.
