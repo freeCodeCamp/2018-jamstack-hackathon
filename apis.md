@@ -51,9 +51,11 @@ Coming soon.
 # Formspree
 
 ### Purpose
+
 Formspree is a form backend that emails you when someone submits your forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website. Once you connect your form to our endpoint we’ll email you the submissions. No PHP, Javascript or sign up required.
 
-##### API endpoint:
+### API endpoint
+
 To use formspree with an existing HTML form you must:
 
 1. change the `action` of your form to point to `https://formspree.io/<YOUR EMAIL>`
