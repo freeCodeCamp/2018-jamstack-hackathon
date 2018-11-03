@@ -227,3 +227,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name - tbd
 
 ***
+
+***
+#Lazy Calorie Counter
+### Upload a picture of the food and keep track of calories based on ingredients!
+* Teammates:
+    - Victor Tsang (@vktr)
+    - Allen Wong (@artist)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/victorwltsang/lazyCalorieCounter)
+* 
+
+***
