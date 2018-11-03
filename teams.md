@@ -206,6 +206,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
 
 ***
+
+# Where in the World
+### "Where was that photo taken?" a real world trivia web app identifying the location of photos in real time
+* Teammates:
+    - Jeff Appareti (@Jeff Appareti#4361)
+    - Tadas Antanavicius (@Tadas Antanavicius#9028)
+    - Tyler Vick (@TJ Vick#4151)
+    - Gabe Greenfield (@gabe#4067)
+* Seeking Teammates: No
+* [Project URL](https://github.com/gaberoo322/where-in-the-world.git)
+* Project Name (Where in the World)
   
 # Tripit
 ### Track, save, and rate day trip agendas
@@ -239,7 +250,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
 * Project Name - tbd
-
 
 ***
 
