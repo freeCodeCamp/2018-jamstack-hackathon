@@ -271,3 +271,31 @@ Formspree, Fuana, Clarifai, Hasura, Pilon, ProPublica, Civic Information API
 Create user story, research APIs, divide roles, and have fun! :) (except for Andrew)
 
 ***
+
+# Quiche Friends
+### TBD
+* Teammates:
+  - Kevin(@kvrmd)
+  - Joshua(@jsadsad)
+  - Jimmy(@jimmy-guzman)
+  - Nestor(@nesanime)
+  - Lele(@lelelew)
+  - Ian(@ianserlin)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jimmy-guzman/quiche-friends)
+### Project Q&A:
+1. What are you going to build?  
+A trusted political action platform.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+- Formspree
+- Clarifai
+- FaunaDB
+- Possibly IPStack for geolocation information
+
+3. What is your plan to execute this idea?  
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+
+* Project Name - TBD
+
+***
