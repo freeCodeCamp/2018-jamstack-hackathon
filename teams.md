@@ -247,5 +247,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Giovani Aguirre (@its-gio)  
 * Seeking Teammates: No
 * [Project URl](https://github.com/jraleman/jamstack-2018)
+###Project Q&A:
+1. What are you going to build?  
+    An application that takes cafeteria data and visualizes customer data trends.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    We currently plan on using Netlify and Hasura. Specifically for our use-case, we need our school's internal API and will need one additional data visualizer API.
+3. What is your plan to execute this idea?  
+    https://github.com/jraleman/jamstack-2018/blob/joey/PFD.pdf
 
 ***
