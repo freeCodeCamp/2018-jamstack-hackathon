@@ -269,6 +269,29 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# FiveFeed
+### A daily curated list of trending resources to keep on your radar
+* Teammates:
+    - Justin Kaseman (@Jk)
+    - Frank Faustino (@frankfaustino)
+    - Niki Esfandiari (@NEsfendiari37)
+    - Sumayyah Asgar (@Sumi)
+    - Hunter Casbeer (@spacexengineer)
+    - Kohei Arai (@kohei2301)
+* Seeking Teammates: No
+* [Project URL](https://github.com/FCC-Jamstack-Hackathon/five)
+* Project Name: FiveFeed (TBD)
+
+### Project Q&A:
+1. What are you going to build?  
+The solution to newsletter information overload. A curated newsfeed of only 5 of the best links, articles, and events - all in one place.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Tech Stack: Gatsby harnessing React and GraphQL, Fauna, Formspring
+3. What is your plan to execute this idea?  
+Split into groups of 3 Front-end developers and 3 Back-end developers.
+
+***
+
 # Hackaform
 
 ### "A simple application to help you find and form Hackathon dream teams."
