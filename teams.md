@@ -71,16 +71,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# "COMING SOON"
-### tbd
+# RaffleGator
+### Making giveaway for creators and users easier and more accessible / propaGATING creators
 * Teammates:
     - Jun Sub Choi (@Stard)
     - Andrew Ngo (@AndyNoAwkward)
     - David Mai (@2BiK)
     - Alan Fu (@BrandHeart)
+    - Selena Xu (@SelenaX)
+    - Jacob Castro (@Jacobcastro)
 * Seeking Teammates: No
-* [Project URL](https://github.com/Broke-Bois-Club)
-* Project Name tbd
+* [Project URL](https://github.com/RaffleGator/RaffleGator)
 
 ***
 
