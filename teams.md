@@ -103,6 +103,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Power Pushers
+### App Description TBD
+* Teammates:
+  - Brian Kilrain (@BK)
+  - Warren Schrader (@ShadowBoxerGuy)
+  - Tia Esguerra (@Tia)
+  - Murrium Zaheer (@murrium123)
+  - Perry Chow (@perry)
+* Seeking Teammates: No
+* [Project Repo - TBD](https://github.com)
+
+***
+
 # BadCoders
 ### tbd
 * Teammates:
