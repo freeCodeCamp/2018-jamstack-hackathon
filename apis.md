@@ -80,6 +80,8 @@ Try playing around with formspree in our sandbox at https://testformspree.com
 
 Get a "contact us" form set up on your website! 
 
+Set up a serverless function to respond to a webhook each time a user submits the form, then fetch the content and use it to do something coool....
+
 ### Docs
 Using formspree is as easy as the `API endpoint` instructions. Try playing around with formspree at https://testformspree.com.
 
@@ -96,6 +98,14 @@ Finally, we will be here at the hackathon and available to help you. Just look f
 <img src="https://lh3.googleusercontent.com/ocJ3qPMgGIJzONipiMk7NADYM2JHtnV25MqdqFrJrheUHMZYbUT3XAxvDHvHGZeTOu4GAyIUVyPmPDpmImwr6sRI0MUENLfAbGNw9B1dLhjh4elL5wR4FipJRCX7qPYPCK1nzD33310=w1274-h1698-no" width="200px">
 
 
+### API (Beta)
+
+We just launched an API beta. Check out the docs here: https://formspree.io/api. 
+
+We're continuing to add to those docs so check back occasionally. Also check out the Discord `#formspree-api` room for updates.
+
+Finally we're gonna offer coupons to people who want to test out our Gold / Platinum features (including APIs). Let us know in discrd or at the table if you want free access.
+
 ### Video tutorial
 Nothing yet, but maybe we'll have one of these posted soon...
 
@@ -103,8 +113,6 @@ Nothing yet, but maybe we'll have one of these posted soon...
 ### Prizes
 
 In person participants that use Formspree in their hackathon project are eligible to win a DJI Spark drone!
-
-Off-site participants that use Formspree will be eligible to win an Amazon Gift Card worth $200. If Amazon gift cards aren't available in your country we will work with you to come up with an equivalent prize.
 
 ***
 
