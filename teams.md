@@ -48,7 +48,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # QXC
-### TBD
+### Find and discover current art interests and identify local galleries in the area.
 - **Teammates**:
   - Ian Wilson (@iwilsonq#4979)
   - Roman Morozov (@sublimeye#6781)
@@ -57,6 +57,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Dennis Xing (@dennis#1656)
 - **Seeking Teammates**: No
 - [Project URL](https://github.com/iwilsonq/qxc)
+### Project Q&A:
+1. What are you going to build?  
+    An app that discovers your artistic preference and shows you local galleries catered to your taste. After swiping on art pieces, you are presented with a navigator to find different galleries in your area.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    The Fauna API for data storage, Formspree for feedback, Clarifai for recommendation and discovery.
+
+3. What is your plan to execute this idea?  
+    We will build a React app using the APIs mentioned. Our designer will prototype the flow and rest of the team will build out the infrastructure.
 
 ***
 
