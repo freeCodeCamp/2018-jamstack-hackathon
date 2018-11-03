@@ -180,6 +180,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Cocoon
+### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
+* Teammates:
+    - Alex Pitzer (@hoop)
+    - Mandy Trinh (@mandytrinh)
+    - Billy Le (@billyle)
+    - Jason Serafica (@teknoformula)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/reztip/cocoon)
+* Project Name (Cocoon)
+
 # Russian Hackers
 ### tbd
 * Teammates:
