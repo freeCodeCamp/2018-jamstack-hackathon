@@ -32,3 +32,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# QXC
+
+### TBD
+
+- **Teammates**:
+  - Ian Wilson (@iwilsonq#4979)
+  - Roman Morozov (@sublimeye#6781)
+  - Simon Baev (@simon#3299)
+  - Vadim Dermanovskiy (@noodly#7880)
+  - Dennis Xing (@dennis#1656)
+- **Seeking Teammates**: No
+- [Project URL](https://github.com/iwilsonq/qxc)
+
+***
