@@ -103,3 +103,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# BadCoders
+### tbd
+* Teammates:
+  - Dinesh
+  - Thinnappan
+  - Anush
+* Seeking Teammates: No
+* [Project Repo](https://github.com/1532j0004kg/hacks)
+* tbd
+
+***
+
