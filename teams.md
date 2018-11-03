@@ -82,3 +82,10 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Ingredea](https://ingredea.netlify.com/)
 
 ***
+#Cartogram
+### Create travel itineraries from just a picture and share your travels! 
+* Teammates:
+    - Samantha Maclaren (@Samantha M)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/samantha-m/Cartogram)
+* [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
