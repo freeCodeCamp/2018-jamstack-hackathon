@@ -274,3 +274,53 @@ Divide and conquer! We have one person overseeing the repository, two people wor
 
 ***
 
+# POWPAL
+### TBA
+* Teammates:
+    - Yvette Tran (@trantastic)
+    - Teammate Jeff (@jcohen120)
+    - Teammate Du (Dawn) Tram (@du-dawn)
+    - Andrew Yang (@yzy)
+    - Anna Khardina-Vaisman (@AnutaK)
+    - Mariya Mego Vela (@mash-a)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Trantastic/powpal)
+* Project Name: POWPAL
+
+### Project Q&A:
+1. What are you going to build?      
+A web app that empowers voters with information to make informed decisions.     
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)      
+Formspree, Fuana, Clarifai, Hasura, Pilon, ProPublica, Civic Information API   
+3. What is your plan to execute this idea?    
+Create user story, research APIs, divide roles, and have fun! :) (except for Andrew)
+
+***
+
+# Quiche Friends
+### TBD
+* Teammates:
+  - Kevin(@kvrmd)
+  - Joshua(@jsadsad)
+  - Jimmy(@jimmy-guzman)
+  - Nestor(@nesanime)
+  - Lele(@lelelew)
+  - Ian(@ianserlin)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jimmy-guzman/quiche-friends)
+### Project Q&A:
+1. What are you going to build?  
+A trusted political action platform.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+- Formspree
+- Clarifai
+- FaunaDB
+- Possibly IPStack for geolocation information
+
+3. What is your plan to execute this idea?  
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+
+* Project Name - TBD
+
+***
