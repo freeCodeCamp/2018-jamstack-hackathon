@@ -249,6 +249,31 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
+
+# Hackaform
+
+### "A simple application to help you find and form Hackathon dream teams."
+
+- Teammates:
+  - Scott Iwako (@iwakoscott)
+  - Miguel Ruiz (@migzruiz)
+  - Gerardo Fernandez (@gerardofer)
+  - Lena Ryoo (@lena)
+  - Sarmishta Burujupalli (@Sarmishta)
+- Seeking Teammates: No
+- [Project URL](https://github.com/iwakoscott/hackathon-2018)
+- Project Name: Hackaform
+
+### Project Q&A:
+1. What are you going to build?  
+We are going to build a web application to help developers attending hackathons find their dream team.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Formspree, Fauna DB, Netlify 
+3. What is your plan to execute this idea? 
+Divide and conquer! We have one person overseeing the repository, two people working on the back end (FaunaDB), one person setting up the Netlify Identity widget, and two others designing the UI.
+
+***
+
 # POWPAL
 ### TBA
 * Teammates:
