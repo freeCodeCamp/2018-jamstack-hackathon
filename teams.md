@@ -68,3 +68,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name tbd
 
 ***
+
+# Ichi-Go Ichi-E
+### tdb
+* Teammate:
+    - Joey Chung (@jchung05)
+    - Jose Ramon Aleman (@jraleman)
+    - Megan Okerlund (@mokerlund)
+    - Giovani Aguirre (@its-gio)  
+* Seeking Teammates: No
+* [Project URl](https://github.com/jraleman/jamstack-2018)
+
+***
