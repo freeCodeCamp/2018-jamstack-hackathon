@@ -69,7 +69,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-
 # Ingredea
 ### With Ingredea Foodies can now explore the ingredients and recipes for their favourite dishes.
 * Teammates:
@@ -92,3 +91,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/syedirfan7/airqualityApp)
 *** 
+
+# Count'em All
+### A simple app to count the number of people attending a gathering
+* Teammates:
+    - Shrey Dabhi (@sdabhi23)
+    - Sohel Shaikh (@thesohelshaikh)
+* Seeking Teammates: No
+* [Project URL](https://github.com/sdabhi23/count-em-all)
+* Count'em All
+
+***
+
