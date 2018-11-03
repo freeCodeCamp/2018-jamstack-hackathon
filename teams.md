@@ -32,6 +32,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
 # SmarTea Pants
 ### A trivia study app for contestants who are trying to qualify for the TV gameshow Jeopardy
 * Teammates:
@@ -39,5 +40,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Colin King-Bailey (@ckingbailey)
 * Seeking Teammates: Yes
 * [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
+
+***
+
+# "COMING SOON"
+### tbd
+* Teammates:
+    - Jun Sub Choi (@Stard)
+    - Andrew Ngo (@AndyNoAwkward)
+    - David Mai (@2BiK)
+    - Alan Fu (@BrandHeart)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Broke-Bois-Club)
+* Project Name tbd
 
 ***
