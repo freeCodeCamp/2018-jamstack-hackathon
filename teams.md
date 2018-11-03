@@ -105,6 +105,23 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 # Job portal with live video interviewing
 ### Me and our team building(on the process) a user-friendly job portal with the live video interviewing.
+
+# Power Pushers
+### App Description TBD
+* Teammates:
+  - Brian Kilrain (@BK)
+  - Warren Schrader (@ShadowBoxerGuy)
+  - Tia Esguerra (@Tia)
+  - Murrium Zaheer (@murrium123)
+  - Perry Chow (@perry)
+* Seeking Teammates: No
+* [Project Repo - TBD](https://github.com)
+
+***
+
+# BadCoders
+### tbd
+
 * Teammates:
   - Dinesh (@1532j0004kg)
   - Thinnappan (@thinnappan)
@@ -114,4 +131,37 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Interactive portal
 
 ***
+
+# PB&JAM
+### tbd
+* Teammates:
+  - Austin (@austintackaberry)
+  - Reuben (@radotreyes)
+  - Gin (@wongco)
+  - Brandon (@brandonstinson)
+  - Vincent (@vtam2012)
+* Seeking Teammates: Sure!
+* tbd
+
+***
+
+# MakeSquad
+### Business card app to store user information in a central database and make it accessible using image recognition and augmented reality.
+* Teammates:
+  - Faith (@gottaHaveFaith#8156)
+  - Stephanie (@Zephany#3690)
+  - Edwin (@ecloud#6259)
+  - Johnathan (@jachen3#4296)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/Make-Squad/Snap-Card)
+* Snapcard
+
+***
+#Cartogram
+### Create travel itineraries from just a picture and share your travels! 
+* Teammates:
+    - Samantha Maclaren (@Samantha M)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/samantha-m/Cartogram)
+* [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
 
