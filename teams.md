@@ -146,6 +146,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# AMA
+### An app for people to host personalized Q&As!
+* Teammates:
+    - Dhron Joshi (@dhron)
+    - Mattias Eyram (@mattias)
+    - Yusuf Khaled (@freeman-cortez)
+* Seeking Teammates: No
+* [Project URL](https://github.com/mattiaseyram/JAMStack-Hackathon-Team-App)
+* AMA
+
+***
+
 # Codelaboration
 ### An app to help you find members for your coding projects
 * Teammates:
@@ -201,3 +213,4 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name - tbd
 
 ***
+
