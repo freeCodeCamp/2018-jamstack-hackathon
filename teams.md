@@ -122,7 +122,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Reuben (@radotreyes)
   - Jin
   - Brandon
-  - Vitz
+  - Vincent (@vtam2012)
 * Seeking Teammates: Sure!
 * tbd
 
