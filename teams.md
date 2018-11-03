@@ -32,18 +32,3 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
-
-# POWPAL
-### TBA
-* Teammates:
-    - Yvette Tran (@trantastic)
-    - Teammate Jeff (@jcohen120)
-    - Teammate Du (Dawn) Tram (@du-dawn)
-    - Andrew Yang (@yzy)
-    - Anna Khardina-Vaisman (@AnutaK)
-    - Mariya Mego Vela (@mash-a)
-* Seeking Teammates: No
-* [Project URL](https://github.com/Trantastic/powpal)
-* Project Name: POWPAL
-
-***
