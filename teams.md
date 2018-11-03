@@ -115,3 +115,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Forumlify?
+### A near-reddit clone using Netlify.
+* Teammates:
+    - Alex Pitzer (@hoop)
+    - Mandy Trinh (@mandytrinh)
+    - Billy Le (@billyle)
+    - Jason Serafica (@teknoformula)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/your-profile/your-project-name)
+* Project Name (ok to say tbd and update later)
+
+***
