@@ -39,11 +39,11 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 ### Project Q&A:
 1. What are you going to build?  
-// your answer here  
+  Making giveaway for creators and users easier and more accessible / propaGATING creators
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-// your answer here  
+  faunaDB, netlify, fromspree, twitter api, instagram api, gatsby, 
 3. What is your plan to execute this idea?  
-// your answer here  
+  Delegate each microservices and api/framework to each team member, helping each other along the way of learning new and exciting tech.  
 
 ***
 
