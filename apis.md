@@ -3,36 +3,7 @@ Listed here are the APIs for your use.
 * Browse the APIs here. Visit docs etc.
 * Meet with the API sponsors at the hackathon, particularly on Saturday morning
 * Communicate with the API sponsors via their dedicated Discord channel.
-
-
-# Netlify
-Netlify automates deployment for your frontend, serving your apps and sites over our custom global Content Delivery Network. You won't need server-side rendering with our integrated [prerendering](https://www.netlify.com/docs/prerendering), [proxy redirects](https://www.netlify.com/docs/redirects), [form handling](https://www.netlify.com/docs/form-handling), [user authentication](https://www.netlify.com/docs/identity), [serverless Lambda functions](https://www.netlify.com/docs/functions), and more.
-
-### Purpose
-Developers everywhere are using the [JAMstack](https://jamstackconf.com/what-is-jamstack) approach to connect blazing fast frontends to a growing array of microservice APIs. There are lots of advantages to this, but sometimes you need to run a bit of server-side code. It's not worth running a whole server for, and that approach doesn't scale well, anyway. Serverless functions services like AWS Lambda are perfect for this, and Netlify's [new functions add-on](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/) makes it easy to deploy, test, and access your Lambda functions right alongside the rest of your app.
-
-### Challenges
-<!-- We are looking for the most interesting app using Netlify's integrated Lambda [functions](https://www.netlify.com/docs/functions).
-
-To be eligible for the prize, your app must be deployed to Netlify, and use at least one Lambda function. -->
-
-### Docs
-https://www.netlify.com/docs/
-
-
-### Video tutorial
-
-
-### Presentation slides
-<!-- Find links to all the docs!
-http://hack2018.netlify.com -->
-
-### Prizes
-
-
-***
-
-
+* Deploy your apps with Netlify. 
 
 # Fauna
 #### Quick Description
@@ -78,42 +49,75 @@ Coming soon.
 ***
 
 # Formspree
-#### Quick Description
-Connect your form to our endpoint and we’ll email you the submissions. No PHP, Javascript or sign up required.
 
+https://formspree.io
 
 ### Purpose
-Formspree is a form backend, API and email service for HTML forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website.
 
+Formspree is a form backend that emails you when someone submits your forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website. Once you connect your form to our endpoint we’ll email you the submissions. No PHP, Javascript or sign up required.
 
-##### API endpoint:
-https://formspree.io/your@email.com
+### API endpoint
+
+To use formspree with an existing HTML form you must:
+
+1. change the `action` of your form to point to `https://formspree.io/<YOUR EMAIL>`
+2. make sure the `method` is `POST`, and
+3. give a `name` attribute to all your `input` tags.
+
+For example:
+
+```html
+<form action="https://formspree.io/your@email.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+```
+
+Try playing around with formspree in our sandbox at https://testformspree.com 
 
 ### Challenges
 
+Get a "contact us" form set up on your website! 
 
 ### Docs
+Using formspree is as easy as the `API endpoint` instructions. Try playing around with formspree at https://testformspree.com.
+
+You can have more control of how your forms are handled by formspree by adding special `type="hidden"` inputs. See the docs below for a list of the special input names that you can use. 
+
 https://formspree.io/docs/
 
+You can also find answers to common questions on our help site here:
+
+https://help.formspree.io/
+
+Finally, we will be here at the hackathon and available to help you. Just look for this goofy guy near the big Formspree banner:
+
+<img src="https://lh3.googleusercontent.com/ocJ3qPMgGIJzONipiMk7NADYM2JHtnV25MqdqFrJrheUHMZYbUT3XAxvDHvHGZeTOu4GAyIUVyPmPDpmImwr6sRI0MUENLfAbGNw9B1dLhjh4elL5wR4FipJRCX7qPYPCK1nzD33310=w1274-h1698-no" width="200px">
+
+
 ### Video tutorial
-
-
-### Presentation slides
+Nothing yet, but maybe we'll have one of these posted soon...
 
 
 ### Prizes
 
+In person participants that use Formspree in their hackathon project are eligible to win a DJI Spark drone!
+
+Off-site participants that use Formspree will be eligible to win an Amazon Gift Card worth $200. If Amazon gift cards aren't available in your country we will work with you to come up with an equivalent prize.
 
 ***
 
 # Clarifai
 #### Quick Description
-Clarifai's API offers image and video recognition capabilities.
+Clarifai's API uses deep learning to do image and video recognition.
 
 The API is built around a simple idea: you send inputs (an image or video) to the service and it returns predictions. The type of prediction is based on what model you choose. For example, if you run your input through the pre-trained 'food' model, the predictions it returns will contain concepts that the 'food' model knows about. If you run your input through the 'color' model, it will return predictions about the dominant colors in your image. The 'General' model covers a broad array of common concepts. A full list of models is available here: https://clarifai.com/models.
 
+You can also use the Custom Training feature to train your own model: https://clarifai.com/developer/guide/train#train.
+
 ### Purpose
-Use the Clarifai API if you want to add image understanding to your JAMstack app. Two common use cases are analyzing what is in an image and visual (image-based) search.
+Use the Clarifai API if you want to add visual understanding to your JAMstack app. Two common use cases are analyzing what is in an image, and visual (image-based) search.
 
 Clarifai can recognize over 10,000 concepts out-of-the-box with default settings ("General" model). You can also quickly train a model to recognize new concepts based on images you upload and label. You can see a complete list of pre-trained models you can use here: https://clarifai.com/models
 
@@ -122,21 +126,37 @@ https://api.clarifai.com/v2
 
 We recommend using a client library to access the API (makes it easier). There are clients available for most languages, including JavaScript: https://clarifai.com/developer/reference/
 
-### Challenges
-+ Get JSON results from Clarifai's "General" model for an image of your choice.
-(Hint: https://clarifai.com/developer/guide/predict#predict)
+NOTE: After creating an account at https://clarifai.com/developer/account/login, you can head over to Billing (https://clarifai.com/developer/account/billing) and enter Plan Code: SFHACKS to receive free API credits for 1 week.
 
-++ Train your model to recognize a new object or concept (using at least 10 images as labeled examples)
-(Hint: https://clarifai.com/developer/guide/train#train)
+### Challenges
++ Use one or more Clarifai's pre-built models (https://clarifai.com/models) to build an innovative visual recognition application
+AND/OR
++ Build a Custom Model using at least 10 images as labeled examples (https://clarifai.com/developer/guide/train#train) and use the model in an app to solve a personal annoyance
+AND/OR
++ Come find us at our table to receive access to a brand new product (currently in private phase), and use that to build a cool application!
 
 ### Docs
 Developer Guide (start here): https://clarifai.com/developer/guide/
 Technical Reference and Client Libraries: https://clarifai.com/developer/reference/
 JavaScript API endpoint reference: https://sdk.clarifai.com/js/latest/index.html
+Custom Training walkthrough: http://help.clarifai.com/custom-training
 
 ### Video tutorial
 4 minute Intro to Clarifai including an API demo with the Python client: https://youtu.be/YOrrROME2zc
 
+### Support & Help
+We'll have a table at the hackathon, and will provide you with all the guidance you need. Come find Abhishek from our Product team!
+
+We also have resources available at: http://help.clarifai.com/
+
+### Prizes
+The winning team will win a Cozmo Robot! 
+
+https://www.anki.com/en-us/cozmo
+
+![Cozmo Robot](https://www.anki.com/on/demandware.static/-/Sites-anki-master-catalog/default/dw3b4502ca/cozmo/cozmo-LE--desktop.jpg)
+
+Top 5 teams will also have the opportunity to feature their hacks on Clarifai's blog!
 
 ***
 
@@ -210,7 +230,11 @@ Client](https://www.apollographql.com/docs/react/). Here are some popular client
 
 TBA
 
+
 ***
+
+
+# Pilon
 
 Pilon is an **e-commerce platform** designed and built from the ground up for the JAMstack world.  
 
@@ -242,6 +266,13 @@ To get inspired, [*checkout how fast an e-commerce site can be*](https://rachio.
 
 ### Docs
 
+#### Get Started
+
+* Register [here](https://merchant.pilon.io/register) and use invitation code `XKC-HACKATHON-JAM` to get connected to Pilon.
+* Checkout our docs and get your JAMstack app authenticated.
+* Checkout our API docs to see what can be done with the platform.
+
+#### Links
 Pilon's main documentation can be accessed at:
 * https://docs.pilon.io/
 

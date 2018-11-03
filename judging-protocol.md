@@ -7,7 +7,7 @@ If you are competing for prizes, you must:
 1. Use the JAMstack. You must not build a monolithic app or run a web server.
 2. Max team size: 6 (Recommended team size: 3-5)
 3. Abide by our code of conduct
-4. To win API prizes, you must use their API. You can review them in [apis.md](./apismd)
+4. To win API prizes, you must use their API. You can review them in [apis.md](./apis.md)
 
 # Judging Criteria
 <!-- Your project will be judged on:
@@ -21,7 +21,7 @@ Build whatever you'd like, of course. -->
 
 
 ## Qualifying Pitches
-**3:00 - 5:00pm, Main Stage**  
+**3:00 - 5:00pm Sunday, Main Stage**  
 You should be present by the main stage at least 5 minutes before your presentation is scheduled to start.  
 This time may be adjusted depending on the number of hackers and teams present.  
 
