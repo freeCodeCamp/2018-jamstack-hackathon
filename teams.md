@@ -253,6 +253,20 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# TBD
+### Learn a new language from your social media with the power of machine learning and your friends' selfies.
+* Teammates:
+    - Manuel Moya (@manuelmoya#2014)
+    - Kyle Smith (@kyle#6166)
+    - Robert Wolf (@Robert Wolf#6955)
+    - Ryan Wiemer (@ryanwiemer#1547)
+    - Anil Kumar Nandamuri (@nandu#6388)
+* Seeking Teammates: No
+* [Project URL](https://github.com/moyamanuel/FCC-Hackathon-2018)
+* Project Name - TBD  
+
+***
+
 # Ichi-Go Ichi-E
 ### tdb
 * Teammate:
@@ -264,3 +278,4 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
+
