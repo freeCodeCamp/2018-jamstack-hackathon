@@ -82,3 +82,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Ingredea](https://ingredea.netlify.com/)
 
 ***
+  
+# Tripit
+### Track, save, and rate day trip agendas
+* Teammates:
+  - Patrick San Juan (@pdotsani)
+  - Adam Guymon (@aguymon)  
+  - Joshua Kang (@guppykang)
+  - Jingyi Ding (@jingyi)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/guppykang/TripIt)
+* [TripIt!](https://frosty-borg-11d2a6.netlify.com/)
