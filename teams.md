@@ -227,3 +227,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name - tbd
 
 ***
+
+# Quiche Friends
+### TBD
+* Teammates:
+  - Kevin(@kvrmd)
+  - Joshua(@jsadsad)
+  - Jimmy(@jimmy-guzman)
+  - Nestor(@nesanime)
+  - Lele(@lelelew)
+  - Ian(@ianserlin)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jimmy-guzman/quiche-friends)
+* Project Name - TBD
