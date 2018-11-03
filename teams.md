@@ -82,3 +82,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Ingredea](https://ingredea.netlify.com/)
 
 ***
+
+# Power Pushers
+### App Description TBD
+* Teammates:
+  - Brian Kilrain (@BK)
+  - Warren Schrader (@ShadowBoxerGuy)
+  - Tia Esguerra (@Tia)
+  - Murrium Zaheer (@murrium123)
+* Seeking Teammates: Yes
+* [Project Repo - TBD](https://github.com)
+
+***
