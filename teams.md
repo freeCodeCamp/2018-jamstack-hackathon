@@ -5,22 +5,24 @@
 ### STYLE GUIDE:  
 
 ```
-# Project Name
-### Less than 240 Characters describing what we're building. Include external links here if desired
+# NU-RD
+### We are buildig a website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
 * Teammates:
-    - Teammate Name (@discordUserProfileName)
-    - Teammate Name (@discordUserProfileName)
-    - Teammate Name (@discordUserProfileName)
-* Seeking Teammates: Yes/No
-* [Project URL](https://github.com/your-profile/your-project-name)
-* Project Name (ok to say tbd and update later)
+    - Veronica (@discordUserProfileName)
+    - Blake (@discordUserProfileName)
+    - Amy (@discordUserProfileName)
+    - Lydia (@discordUserProfileName)
+    - Rich (@discordUserProfileName)
+* Seeking Teammates: No
+* [Project URL] https://github.com/amychan331/nu-rd
+* NU-RD
 ### Project Q&A:
 1. What are you going to build?  
-// your answer here  
+// A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-// your answer here  
+// Netlify, Fauna DB  
 3. What is your plan to execute this idea?  
-// your answer here  
+// TBD  
 
 ***
 ```
@@ -148,7 +150,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # PB&JAM
-### Real-time blazing-fast, image-recognition, machine-learning picture scavenger hunt
+### tbd
 * Teammates:
   - Austin (@austintackaberry)
   - Reuben (@radotreyes)
@@ -156,8 +158,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Brandon (@brandonstinson)
   - Vincent (@vtam2012)
 * Seeking Teammates: Sure!
-* https://github.com/radotreyes/SICC-PICCS
-* __SICC PICCS__
+* tbd
 
 ***
 
@@ -218,8 +219,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/reztip/cocoon)
 * Project Name (Cocoon)
 
-***
-
 # Russian Hackers
 ### tbd
 * Teammates:
@@ -229,17 +228,27 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
 * Project Name - tbd
 
-
 ***
 
-# Ichi-Go Ichi-E
-### tdb
-* Teammate:
-    - Joey Chung (@jchung05)
-    - Jose Ramon Aleman (@jraleman)
-    - Megan Okerlund (@mokerlund)
-    - Giovani Aguirre (@its-gio)  
+```
+# NU-RD
+### We are buildig a website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+* Teammates:
+    - Veronica (@discordUserProfileName)
+    - Blake (@discordUserProfileName)
+    - Amy (@discordUserProfileName)
+    - Lydia (@discordUserProfileName)
+    - Rich (@discordUserProfileName)
 * Seeking Teammates: No
-* [Project URl](https://github.com/jraleman/jamstack-2018)
+* [Project URL] https://github.com/amychan331/nu-rd
+* NU-RD
+### Project Q&A:
+1. What are you going to build?  
+// A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// Netlify, Fauna DB  
+3. What is your plan to execute this idea?  
+// TBD  
 
 ***
+```
