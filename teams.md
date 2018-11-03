@@ -68,3 +68,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name tbd
 
 ***
+
+
+# Ingredea
+### With Ingredea Foodies can now explore the ingredients and recipes for their favourite dishes.
+* Teammates:
+  - Abhijeet Saxena (@rockyy)
+  - Arjun Porwal (@Arjun)
+  - Paras Arora (@paras594)
+  - Vishang Soni (@TrekLatte)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/rocky93/ingredea)
+* [Check Out Ingredea](https://ingredea.netlify.com/)
+
+---
