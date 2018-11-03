@@ -103,19 +103,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# Power Pushers
-### App Description TBD
-* Teammates:
-  - Brian Kilrain (@BK)
-  - Warren Schrader (@ShadowBoxerGuy)
-  - Tia Esguerra (@Tia)
-  - Murrium Zaheer (@murrium123)
-  - Perry Chow (@perry)
-* Seeking Teammates: No
-* [Project Repo - TBD](https://github.com)
-
-***
-
 # BadCoders
 ### tbd
 * Teammates:
@@ -128,36 +115,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# PB&JAM
+# BadCoders
 ### tbd
 * Teammates:
-  - Austin (@austintackaberry)
-  - Reuben (@radotreyes)
-  - Gin (@wongco)
-  - Brandon (@brandonstinson)
-  - Vincent (@vtam2012)
-* Seeking Teammates: Sure!
+  - Chandra Vyas
+  - Pramod
+  - Sagar
+  - Carlos
+* Seeking Teammates: No
+* [Project Repo](https://github.com/satyasagar/wildcats)
 * tbd
 
 ***
-
-# MakeSquad
-### Business card app to store user information in a central database and make it accessible using image recognition and augmented reality.
-* Teammates:
-  - Faith (@gottaHaveFaith#8156)
-  - Stephanie (@Zephany#3690)
-  - Edwin (@ecloud#6259)
-  - Johnathan (@jachen3#4296)
-* Seeking Teammates: No
-* [Project Repo](https://github.com/Make-Squad/Snap-Card)
-* Snapcard
-
-***
-#Cartogram
-### Create travel itineraries from just a picture and share your travels! 
-* Teammates:
-    - Samantha Maclaren (@Samantha M)
-* Seeking Teammates: No
-* [Project Repo](https://github.com/samantha-m/Cartogram)
-* [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
-
