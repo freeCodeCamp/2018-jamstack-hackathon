@@ -269,6 +269,31 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# jamhouse
+### Jamhouse is a tool built on top of Google Lighthouse, used to measure your website's performance over time.
+
+* Teammates:
+    - Cam (@cambodia87)
+    - Andres (@Andres)
+    - Diego (@diegolamanno)
+    - Henry (@mmonkey)
+    - Danny (@talonz)
+* Seeking Teammates: No
+* [Project URL](https://github.com/diegolamanno/jamhouse)
+* Jamhouse
+
+### Project Q&A:
+1. What are you going to build?  
+    Jamhouse is a tool built on top of Google Lighthouse, used to measure your website's performance over time.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    We plan to use FaunaDB and Formspree
+3. What is your plan to execute this idea?  
+- We will build a site homepage, where the user can enter their website url, or request a webhook url that they can add to their netlify site.
+- Once the user submits, it will trigger a lambda function, which will run the lighthouse CLI tool, and commit the lighthouse results to a FaunaDB.
+- When the faunaDB successfully receives a new entry, it will trigger our website to build a page with their ongoing results over time compared against the user's current build.
+
+***
+
 # FiveFeed
 ### A daily curated list of trending resources to keep on your radar
 * Teammates:
