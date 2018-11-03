@@ -69,7 +69,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-
 # Ingredea
 ### With Ingredea Foodies can now explore the ingredients and recipes for their favourite dishes.
 * Teammates:
@@ -80,8 +79,30 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project Repo](https://github.com/rocky93/ingredea)
 * [Check Out Ingredea](https://ingredea.netlify.com/)
+***
+
+# Air Quality App
+### we are building a web app using [AirVisualAPI](https://www.airvisual.com) and on PWA with push notifications
+* Teammates:
+    - Teammate Name (@irfanSyed17#9502)
+    - Teammate Name (@Jiggly Poof#8959)
+    - Teammate Name (@sammieee#0836)
+    - Teammate Name (@km.#3850)
+* Seeking Teammates: No
+* [Project URL](https://github.com/syedirfan7/airqualityApp)
+*** 
+
+# Count'em All
+### A simple app to count the number of people attending a gathering
+* Teammates:
+    - Shrey Dabhi (@sdabhi23)
+    - Sohel Shaikh (@thesohelshaikh)
+* Seeking Teammates: No
+* [Project URL](https://github.com/sdabhi23/count-em-all)
+* Count'em All
 
 ***
+
 # BadCoders
 ### tbd
 * Teammates:
@@ -93,3 +114,4 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * tbd
 
 ***
+

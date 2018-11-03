@@ -191,9 +191,8 @@ Here are some examples of how you can use Hasura:
 
 Here are a few short videos to help you get started:
 
-1. Explore GraphQL queries, mutations and subscriptions with a realtime todo app [(video coming soon)]()
-2. Send an email when a new user is created using Netlify functions [(video coming soon)]()
-3. Integrate authentication/authorization with auth0 [(video coming soon)]()
+1. Get started with Hasura on Heroku [(video)](https://www.youtube.com/watch?v=jUObpSl6dTE)
+2. Explore GraphQL queries, mutations and subscriptions [(video)](https://youtu.be/RjnsY-MG4sk)
 
 ### Support & help
 
@@ -206,14 +205,8 @@ Here are a few short videos to help you get started:
 
 Hasura docs are available at [`docs.hasura.io`](https://docs.hasura.io).
 
-Here are some quick links to get you started:
+Here are some other useful links to get you started:
 
-- [Deployment guide on Heroku](https://docs.hasura.io/1.0/graphql/manual/getting-started/heroku-simple.html)
-- [Making your first GraphQL query](https://docs.hasura.io/1.0/graphql/manual/getting-started/first-graphql-query.html)
-- [Creating tables and columns](https://docs.hasura.io/1.0/graphql/manual/schema/index.html)
-- [Querying data through GraphQL](https://docs.hasura.io/1.0/graphql/manual/queries/index.html)
-- [Modifying data using Mutations](https://docs.hasura.io/1.0/graphql/manual/mutations/index.html)
-- [Getting realtime data using Subscriptions](https://docs.hasura.io/1.0/graphql/manual/subscriptions/index.html)
 - [Create Gatsby sites using GraphQL and Postgres](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/gatsby-postgres-graphql)
 - [Example applications built using Hasura](https://github.com/hasura/graphql-engine/tree/master/community/examples)
 - [Trigger a Lambda function](https://docs.hasura.io/1.0/graphql/manual/getting-started/first-event-trigger.html)
@@ -228,7 +221,7 @@ Client](https://www.apollographql.com/docs/react/). Here are some popular client
 
 ### Prizes
 
-TBA
+**Amazon gift voucher worth $200** for the team with the best application using Hasura GraphQL Engine.
 
 
 ***
