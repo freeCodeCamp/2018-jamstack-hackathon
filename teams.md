@@ -238,13 +238,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Anil Kumar Nandamuri (@nandu#6388)
 * Seeking Teammates: No
 * [Project URL](https://github.com/moyamanuel/FCC-Hackathon-2018)
-* Project Name - TBD
-### Project Q&A:
-1. What are you going to build?  
-// your answer here  
-2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-// your answer here  
-3. What is your plan to execute this idea?  
-// your answer here  
+* Project Name - TBD  
 
 ***
