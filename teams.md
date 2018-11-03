@@ -90,7 +90,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Jordan Henderson (@Jman219)
     - Nathan Chica (@ch1cachu)
     - Shajia Abidi (@abidishaija)
-    - Shenay (@Shenay)
 * Seeking Teammates: No
 * [Project URL] (https://github.com/maximomacchi/image-recognition-assistant)
 1. What are you going to build?  
