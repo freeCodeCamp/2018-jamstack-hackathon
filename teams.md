@@ -249,3 +249,24 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
+
+# Imposterly
+### We are builing a web app where users (from the tech industry) can post about their imposter syndrome and receive community support.
+* Teammates:
+    - Vikram Raja (@Vik1395)
+    - Matt Rodigheri (@maaatt)
+    - Abel Regalado (@abel)
+    - Martin Vargas Vega (@dev_latino)
+    - Shane Tajima (@shane)
+* Seeking Teammates: No
+* [Project URL (Subject to change)](https://github.com/abelrr/imposter_in_tech)
+* Imposterly (probably rename later)
+### Project Q&A:
+1. What are you going to build?  
+   A web app where users (from the tech industry) can post about their imposter syndrome and receive community support.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+   Formspree, Hasura (maybe), Github (maybe)
+3. What is your plan to execute this idea?  
+// your answer here  
+
+***
