@@ -269,6 +269,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# [CaptionThis!](https://captionthis.netlify.com)
+### The project is about an app that displays a random gif. A user can submit a caption to the gif. A user can also upvote the favorite captioned gifs that will be displayed on the sidebar.
+ * Teammates:
+- Vijay Lama (@absurdist)
+- Sumit Bagga (@daggerdrone)
+- David Carter (@dajocarter)
+
+* Seeking Teammates: No || 1 mate welcome. :)
+* [Project Repo](https://github.com/dajocarter/caption-this)
+* CaptionThis!
+
 # jamhouse
 ### Jamhouse is a tool built on top of Google Lighthouse, used to measure your website's performance over time.
 
