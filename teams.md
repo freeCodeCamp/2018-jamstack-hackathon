@@ -182,6 +182,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/Rawgher/Codelaboration)
 * Codelaboration
+1. What are you going to build?  
+    An application that will allow coders to share their projects and look for developers to help them out.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    We currently plan on using Fauna, Formspree and Netlify. We may incorporate more as the project progresses.
+3. What is your plan to execute this idea?  
+    Scope out the tasks, make mocks of the project, then split up components and code.
 
 ***
 
@@ -207,28 +213,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# Where in the World
-### "Where was that photo taken?" a real world trivia web app identifying the location of photos in real time
-* Teammates:
-    - Jeff Appareti (@Jeff Appareti#4361)
-    - Tadas Antanavicius (@Tadas Antanavicius#9028)
-    - Tyler Vick (@TJ Vick#4151)
-    - Gabe Greenfield (@gabe#4067)
-* Seeking Teammates: No
-* [Project URL](https://github.com/gaberoo322/where-in-the-world.git)
-* Project Name (Where in the World)
-  
-# Tripit
-### Track, save, and rate day trip agendas
-* Teammates:
-  - Patrick San Juan (@pdotsani)
-  - Adam Guymon (@aguymon)  
-  - Joshua Kang (@guppykang)
-  - Jingyi Ding (@jingyi)
-* Seeking Teammates: No
-* [Project Repo](https://github.com/guppykang/TripIt)
-* [TripIt!](https://frosty-borg-11d2a6.netlify.com/)
-
 # Cocoon
 ### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
 * Teammates:
@@ -251,40 +235,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
 * Project Name - tbd
 
-***
-
-# Fit My Feet
-### Finding the right shoe size for your feet can be annoying. Not anymore!
-* Teammates:
-    - Zubair Ahmed (@Zubair)
-    - Alexandra Waite (@alexw)
-* Seeking Teammates: No
-* [Project URL](https://github.com/zubairnahmed/fit-my-feet)
-* Fit My Feet
-
-### Project Q&A:
-1. What are you going to build?  
-   We are building an e-commerce site that sells shoes. We use AI to find the best fit for your feet.
-2. Which APIs do you plan to use? 
-   We plan to use Clarifai, Pilon, and Formspree.
-3. What is your plan to execute this idea?  
-   First, we will research the APIs and learn how to integrate with them. Then, we'll create a React application and split up    tasks between the two of us. One person will tackle training a Clarifai model with shoe and feet images, as well as 
-   integrating with it. The other person will get one or two shoes integrated as products with Pilon. Once done with Pilon and
-   Clarifai integrations, we will together add the contact form for Formspree. Ready to have some fun!
-
-***
-
-# TBD
-### Learn a new language from your social media with the power of machine learning and your friends' selfies.
-* Teammates:
-    - Manuel Moya (@manuelmoya#2014)
-    - Kyle Smith (@kyle#6166)
-    - Robert Wolf (@Robert Wolf#6955)
-    - Ryan Wiemer (@ryanwiemer#1547)
-    - Anil Kumar Nandamuri (@nandu#6388)
-* Seeking Teammates: No
-* [Project URL](https://github.com/moyamanuel/FCC-Hackathon-2018)
-* Project Name - TBD  
 
 ***
 
@@ -299,4 +249,3 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
-
