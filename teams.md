@@ -81,4 +81,4 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project Repo](https://github.com/rocky93/ingredea)
 * [Check Out Ingredea](https://ingredea.netlify.com/)
 
----
+***
