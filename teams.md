@@ -32,3 +32,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+
+# Air Quality App
+### we are building a web app using [AirVisualAPI](https://www.airvisual.com) and on PWA with push notifications
+* Teammates:
+    - Teammate Name (@irfanSyed17#9502)
+    - Teammate Name (@Jiggly Poof#8959)
+    - Teammate Name (@sammieee#0836)
+    - Teammate Name (@km.#3850)
+* Seeking Teammates: No
+* [Project URL](https://github.com/syedirfan7/airqualityApp)
+* Project Name (ok to say tbd and update later)
+
+***
