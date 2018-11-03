@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR 
+### Create a PR
 
 ### STYLE GUIDE:  
 
@@ -227,3 +227,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name - tbd
 
 ***
+
+# DreamMakers
+### A website that provides scripts for youtube videos.
+* Teammates:
+  - Nyapal (@gottaHaveFaith#8156)
+  - Jasmin (@Zephany#3690)
+  - KJ (@ecloud#6259)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/jazz2900/dream-makers)
+* Netlify, YouTube
+* Project Name - tbd
