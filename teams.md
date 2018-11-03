@@ -120,8 +120,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
   - Austin (@austintackaberry)
   - Reuben (@radotreyes)
-  - Jin
-  - Brandon
+  - Gin (@wongco)
+  - Brandon (@brandonstinson)
   - Vincent (@vtam2012)
 * Seeking Teammates: Sure!
 * tbd
