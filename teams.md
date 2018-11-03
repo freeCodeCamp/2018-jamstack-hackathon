@@ -270,7 +270,7 @@ We are going to build a web application to help developers attending hackathons 
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 Formspree, Fauna DB, Netlify 
 3. What is your plan to execute this idea? 
-Divide and conquer! Divide and conquer! We have one person overseeing the repository, two people working on the back end (FaunaDB), one person setting up the Netlify Identity widget, and two others designing the UI.
+Divide and conquer! We have one person overseeing the repository, two people working on the back end (FaunaDB), one person setting up the Netlify Identity widget, and two others designing the UI.
 
 ***
 
