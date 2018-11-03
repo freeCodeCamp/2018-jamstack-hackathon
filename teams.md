@@ -91,7 +91,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Teammate Name (@km.#3850)
 * Seeking Teammates: No
 * [Project URL](https://github.com/syedirfan7/airqualityApp)
-*** 
+***
 
 # Count'em All
 ### A simple app to count the number of people attending a gathering
@@ -171,10 +171,22 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 #Cartogram
-### Create travel itineraries from just a picture and share your travels! 
+### Create travel itineraries from just a picture and share your travels!
 * Teammates:
     - Samantha Maclaren (@Samantha M)
 * Seeking Teammates: No
 * [Project Repo](https://github.com/samantha-m/Cartogram)
 * [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
 
+***
+
+# Russian Hackers
+### tbd
+* Teammates:
+    - Ron (@vokoshyv)
+    - Kevin (@jamalthejanitor#1701)
+* Seeking Teammates: No
+* [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
+* Project Name - tbd
+
+***
