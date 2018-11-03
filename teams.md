@@ -93,7 +93,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL] (https://github.com/maximomacchi/image-recognition-assistant)
 1. What are you going to build?  
-Widget that will take image as input and return tags related to that image along with other data.
+Widget that will take image as input and return tags related to that image along with other data. We will also be building an app that uses our created widget to show it in action. 
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 Clarifai.
 3. What is your plan to execute this idea?  
