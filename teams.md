@@ -213,6 +213,25 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Where in the World
+### "Where was that photo taken?" a real world trivia web app identifying the location of photos in real time
+* Teammates:
+    - Jeff Appareti (@Jeff Appareti#4361)
+    - Tadas Antanavicius (@Tadas Antanavicius#9028)
+    - Tyler Vick (@TJ Vick#4151)
+    - Gabe Greenfield (@gabe#4067)
+* Seeking Teammates: No
+* [Project URL](https://github.com/gaberoo322/where-in-the-world.git)
+* Project Name (Where in the World)
+1. What are you going to build?  
+    We’re building a live social game: Where in the World. Players go to the website on their mobile phones and join the “lobby”. We periodically “start a game”, whereupon all the players are presented with an image we have queued up. The image is of something somewhat recognizable. Players drop a pin on the provided map, indicating where they think the picture was taken. The game is over in 30 seconds, and the winners (by smallest distance from the actual location) are displayed on the next screen.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    Hasura, Netlify, Google Maps (stretch goal), Clarifai (far stretch goal), Formspree
+3. What is your plan to execute this idea?  
+    Design data/domain model all together --> Pair 1 works on setting up Create React App w/ Apollo, Netlify deploy --> Pair 2 works on getting model into Hasura, preparing endpoint --> Design screens, mocks all together --> Divvy out the front end development tasks to get to functional MVP --> Time permitting, integrate Maps API for answer. Otherwise, implement multiple choice system --> Final preparation for demo (set up actual data) --> Time permitting, create Clarifai AI
+    
+***
+
 # Cocoon
 ### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
 * Teammates:
@@ -262,6 +281,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/diegolamanno/jamhouse)
 * Jamhouse
+
 ### Project Q&A:
 1. What are you going to build?  
     Jamhouse is a tool built on top of Google Lighthouse, used to measure your website's performance over time.
@@ -271,5 +291,103 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 - We will build a site homepage, where the user can enter their website url, or request a webhook url that they can add to their netlify site.
 - Once the user submits, it will trigger a lambda function, which will run the lighthouse CLI tool, and commit the lighthouse results to a FaunaDB.
 - When the faunaDB successfully receives a new entry, it will trigger our website to build a page with their ongoing results over time compared against the user's current build.
+
+***
+
+# FiveFeed
+### A daily curated list of trending resources to keep on your radar
+* Teammates:
+    - Justin Kaseman (@Jk)
+    - Frank Faustino (@frankfaustino)
+    - Niki Esfandiari (@NEsfendiari37)
+    - Sumayyah Asgar (@Sumi)
+    - Hunter Casbeer (@spacexengineer)
+    - Kohei Arai (@kohei2301)
+* Seeking Teammates: No
+* [Project URL](https://github.com/FCC-Jamstack-Hackathon/five)
+* Project Name: FiveFeed (TBD)
+
+### Project Q&A:
+1. What are you going to build?  
+The solution to newsletter information overload. A curated newsfeed of only 5 of the best links, articles, and events - all in one place.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Tech Stack: Gatsby harnessing React and GraphQL, Fauna, Formspring
+3. What is your plan to execute this idea?  
+Split into groups of 3 Front-end developers and 3 Back-end developers.
+
+***
+
+# Hackaform
+
+### "A simple application to help you find and form Hackathon dream teams."
+
+- Teammates:
+  - Scott Iwako (@iwakoscott)
+  - Miguel Ruiz (@migzruiz)
+  - Gerardo Fernandez (@gerardofer)
+  - Lena Ryoo (@lena)
+  - Sarmishta Burujupalli (@Sarmishta)
+- Seeking Teammates: No
+- [Project URL](https://github.com/iwakoscott/hackathon-2018)
+- Project Name: Hackaform
+
+### Project Q&A:
+1. What are you going to build?  
+We are going to build a web application to help developers attending hackathons find their dream team.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Formspree, Fauna DB, Netlify 
+3. What is your plan to execute this idea? 
+Divide and conquer! We have one person overseeing the repository, two people working on the back end (FaunaDB), one person setting up the Netlify Identity widget, and two others designing the UI.
+
+***
+
+# POWPAL
+### TBA
+* Teammates:
+    - Yvette Tran (@trantastic)
+    - Teammate Jeff (@jcohen120)
+    - Teammate Du (Dawn) Tram (@du-dawn)
+    - Andrew Yang (@yzy)
+    - Anna Khardina-Vaisman (@AnutaK)
+    - Mariya Mego Vela (@mash-a)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Trantastic/powpal)
+* Project Name: POWPAL
+
+### Project Q&A:
+1. What are you going to build?      
+A web app that empowers voters with information to make informed decisions.     
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)      
+Formspree, Fuana, Clarifai, Hasura, Pilon, ProPublica, Civic Information API   
+3. What is your plan to execute this idea?    
+Create user story, research APIs, divide roles, and have fun! :) (except for Andrew)
+
+***
+
+# Quiche Friends
+### TBD
+* Teammates:
+  - Kevin(@kvrmd)
+  - Joshua(@jsadsad)
+  - Jimmy(@jimmy-guzman)
+  - Nestor(@nesanime)
+  - Lele(@lelelew)
+  - Ian(@ianserlin)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jimmy-guzman/quiche-friends)
+### Project Q&A:
+1. What are you going to build?  
+A trusted political action platform.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+- Formspree
+- Clarifai
+- FaunaDB
+- Possibly IPStack for geolocation information
+
+3. What is your plan to execute this idea?  
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+
+* Project Name - TBD
 
 ***
