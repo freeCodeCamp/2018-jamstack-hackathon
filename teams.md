@@ -239,4 +239,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Ian(@ianserlin)
 * Seeking Teammates: No
 * [Project URL](https://github.com/jimmy-guzman/quiche-friends)
+### Project Q&A:
+1. What are you going to build?  
+A trusted political action platform.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+- Formspree
+- Clarifai
+- FaunaDB
+- Possibly IPStack for geolocation information
+
+3. What is your plan to execute this idea?  
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+
 * Project Name - TBD
+
+***
