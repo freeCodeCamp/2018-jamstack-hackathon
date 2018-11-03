@@ -227,3 +227,24 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name - tbd
 
 ***
+
+# TBD
+### Learn a new language from your social media with the power of machine learning and your friends' selfies.
+* Teammates:
+    - Manuel Moya (@manuelmoya#2014)
+    - Kyle Smith (@kyle#6166)
+    - Robert Wolf (@Robert Wolf#6955)
+    - Ryan Wiemer (@ryanwiemer#1547)
+    - Anil Kumar Nandamuri (@nandu#6388)
+* Seeking Teammates: No
+* [Project URL](https://github.com/moyamanuel/FCC-Hackathon-2018)
+* Project Name - TBD
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
+
+***
