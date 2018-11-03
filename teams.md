@@ -218,6 +218,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/reztip/cocoon)
 * Project Name (Cocoon)
 
+***
+
 # Russian Hackers
 ### tbd
 * Teammates:
@@ -226,5 +228,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
 * Project Name - tbd
+
+
+***
+
+# Ichi-Go Ichi-E
+### tdb
+* Teammate:
+    - Joey Chung (@jchung05)
+    - Jose Ramon Aleman (@jraleman)
+    - Megan Okerlund (@mokerlund)
+    - Giovani Aguirre (@its-gio)  
+* Seeking Teammates: No
+* [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
