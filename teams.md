@@ -253,6 +253,27 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Fit My Feet
+### Finding the right shoe size for your feet can be annoying. Not anymore!
+* Teammates:
+    - Zubair Ahmed (@Zubair)
+    - Alexandra Waite (@alexw)
+* Seeking Teammates: No
+* [Project URL](https://github.com/zubairnahmed/fit-my-feet)
+* Fit My Feet
+
+### Project Q&A:
+1. What are you going to build?  
+   We are building an e-commerce site that sells shoes. We use AI to find the best fit for your feet.
+2. Which APIs do you plan to use? 
+   We plan to use Clarifai, Pilon, and Formspree.
+3. What is your plan to execute this idea?  
+   First, we will research the APIs and learn how to integrate with them. Then, we'll create a React application and split up    tasks between the two of us. One person will tackle training a Clarifai model with shoe and feet images, as well as 
+   integrating with it. The other person will get one or two shoes integrated as products with Pilon. Once done with Pilon and
+   Clarifai integrations, we will together add the contact form for Formspree. Ready to have some fun!
+
+***
+
 # TBD
 ### Learn a new language from your social media with the power of machine learning and your friends' selfies.
 * Teammates:
