@@ -51,6 +51,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Fay Yang (@CodeFay)
     - Colin King-Bailey (@ckingbailey)
+    - Neil Ricci (@iccir919)
 * Seeking Teammates: Yes
 * [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
 
