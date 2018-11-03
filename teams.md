@@ -148,7 +148,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # PB&JAM
-### tbd
+### Real-time blazing-fast, image-recognition, machine-learning picture scavenger hunt
 * Teammates:
   - Austin (@austintackaberry)
   - Reuben (@radotreyes)
@@ -156,7 +156,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Brandon (@brandonstinson)
   - Vincent (@vtam2012)
 * Seeking Teammates: Sure!
-* tbd
+* https://github.com/radotreyes/SICC-PICCS
+* __SICC PICCS__
 
 ***
 
