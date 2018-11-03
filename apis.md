@@ -110,12 +110,14 @@ Off-site participants that use Formspree will be eligible to win an Amazon Gift 
 
 # Clarifai
 #### Quick Description
-Clarifai's API offers image and video recognition capabilities.
+Clarifai's API uses deep learning to do image and video recognition.
 
 The API is built around a simple idea: you send inputs (an image or video) to the service and it returns predictions. The type of prediction is based on what model you choose. For example, if you run your input through the pre-trained 'food' model, the predictions it returns will contain concepts that the 'food' model knows about. If you run your input through the 'color' model, it will return predictions about the dominant colors in your image. The 'General' model covers a broad array of common concepts. A full list of models is available here: https://clarifai.com/models.
 
+You can also use the Custom Training feature to train your own model: https://clarifai.com/developer/guide/train#train.
+
 ### Purpose
-Use the Clarifai API if you want to add image understanding to your JAMstack app. Two common use cases are analyzing what is in an image and visual (image-based) search.
+Use the Clarifai API if you want to add visual understanding to your JAMstack app. Two common use cases are analyzing what is in an image, and visual (image-based) search.
 
 Clarifai can recognize over 10,000 concepts out-of-the-box with default settings ("General" model). You can also quickly train a model to recognize new concepts based on images you upload and label. You can see a complete list of pre-trained models you can use here: https://clarifai.com/models
 
@@ -124,21 +126,37 @@ https://api.clarifai.com/v2
 
 We recommend using a client library to access the API (makes it easier). There are clients available for most languages, including JavaScript: https://clarifai.com/developer/reference/
 
-### Challenges
-+ Get JSON results from Clarifai's "General" model for an image of your choice.
-(Hint: https://clarifai.com/developer/guide/predict#predict)
+NOTE: After creating an account at https://clarifai.com/developer/account/login, you can head over to Billing (https://clarifai.com/developer/account/billing) and enter Plan Code: SFHACKS to receive free API credits for 1 week.
 
-++ Train your model to recognize a new object or concept (using at least 10 images as labeled examples)
-(Hint: https://clarifai.com/developer/guide/train#train)
+### Challenges
++ Use one or more Clarifai's pre-built models (https://clarifai.com/models) to build an innovative visual recognition application
+AND/OR
++ Build a Custom Model using at least 10 images as labeled examples (https://clarifai.com/developer/guide/train#train) and use the model in an app to solve a personal annoyance
+AND/OR
++ Come find us at our table to receive access to a brand new product (currently in private phase), and use that to build a cool application!
 
 ### Docs
 Developer Guide (start here): https://clarifai.com/developer/guide/
 Technical Reference and Client Libraries: https://clarifai.com/developer/reference/
 JavaScript API endpoint reference: https://sdk.clarifai.com/js/latest/index.html
+Custom Training walkthrough: http://help.clarifai.com/custom-training
 
 ### Video tutorial
 4 minute Intro to Clarifai including an API demo with the Python client: https://youtu.be/YOrrROME2zc
 
+### Support & Help
+We'll have a table at the hackathon, and will provide you with all the guidance you need. Come find Abhishek from our Product team!
+
+We also have resources available at: http://help.clarifai.com/
+
+### Prizes
+The winning team will win a Cozmo Robot! 
+
+https://www.anki.com/en-us/cozmo
+
+![Cozmo Robot](https://www.anki.com/on/demandware.static/-/Sites-anki-master-catalog/default/dw3b4502ca/cozmo/cozmo-LE--desktop.jpg)
+
+Top 5 teams will also have the opportunity to feature their hacks on Clarifai's blog!
 
 ***
 
