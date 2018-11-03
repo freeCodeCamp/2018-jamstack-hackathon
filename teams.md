@@ -103,6 +103,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Job portal with live video interviewing
+### Me and our team building(on the process) a user-friendly job portal with the live video interviewing.
+
 # Power Pushers
 ### App Description TBD
 * Teammates:
@@ -118,13 +121,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 # BadCoders
 ### tbd
+
 * Teammates:
-  - Dinesh
-  - Thinnappan
-  - Anush
+  - Dinesh (@1532j0004kg)
+  - Thinnappan (@thinnappan)
+  - Anush (@Anushkumar06)
 * Seeking Teammates: No
 * [Project Repo](https://github.com/1532j0004kg/hacks)
-* tbd
+* Interactive portal
 
 ***
 
