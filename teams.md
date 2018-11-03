@@ -128,3 +128,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# MakeSquad
+### Business card app to store user information in a central database and make it accessible using image recognition and augmented reality.
+* Teammates:
+  - Faith (@gottaHaveFaith#8156)
+  - Stephanie (@Zephany#3690)
+  - Edwin (@ecloud#6259)
+  - Johnathan (@jachen3#4296)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/Make-Squad/Snap-Card)
+* Snapcard
+
+***
