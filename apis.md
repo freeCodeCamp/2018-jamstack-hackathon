@@ -161,9 +161,9 @@ Top 5 teams will also have the opportunity to feature their hacks on Clarifai's 
 ***
 
 
-# Hasura
+# Hasura GraphQL Engine
 
-Hasura gives you instant, realtime GraphQL APIs for your JAMstack app. With one-click to deploy on Heroku's free tier, you can get started in less than a minute.
+[Hasura](https://hasura.io) is an [open-source](https://github.com/hasura/graphql-engine) service that gives you instant, realtime GraphQL APIs for your JAMstack app. With one-click to deploy on Heroku's free tier, you can get started in less than a minute.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
