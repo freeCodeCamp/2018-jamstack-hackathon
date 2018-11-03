@@ -148,7 +148,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # PB&JAM
-### tbd
+### Real-time blazing-fast, image-recognition, machine-learning picture scavenger hunt
 * Teammates:
   - Austin (@austintackaberry)
   - Reuben (@radotreyes)
@@ -156,7 +156,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Brandon (@brandonstinson)
   - Vincent (@vtam2012)
 * Seeking Teammates: Sure!
-* tbd
+* https://github.com/radotreyes/SICC-PICCS
+* __SICC PICCS__
 
 ***
 
@@ -206,6 +207,28 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Where in the World
+### "Where was that photo taken?" a real world trivia web app identifying the location of photos in real time
+* Teammates:
+    - Jeff Appareti (@Jeff Appareti#4361)
+    - Tadas Antanavicius (@Tadas Antanavicius#9028)
+    - Tyler Vick (@TJ Vick#4151)
+    - Gabe Greenfield (@gabe#4067)
+* Seeking Teammates: No
+* [Project URL](https://github.com/gaberoo322/where-in-the-world.git)
+* Project Name (Where in the World)
+  
+# Tripit
+### Track, save, and rate day trip agendas
+* Teammates:
+  - Patrick San Juan (@pdotsani)
+  - Adam Guymon (@aguymon)  
+  - Joshua Kang (@guppykang)
+  - Jingyi Ding (@jingyi)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/guppykang/TripIt)
+* [TripIt!](https://frosty-borg-11d2a6.netlify.com/)
+
 # Cocoon
 ### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
 * Teammates:
@@ -216,6 +239,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/reztip/cocoon)
 * Project Name (Cocoon)
+
+***
 
 # Russian Hackers
 ### tbd
@@ -241,3 +266,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name - TBD  
 
 ***
+
+# Ichi-Go Ichi-E
+### tdb
+* Teammate:
+    - Joey Chung (@jchung05)
+    - Jose Ramon Aleman (@jraleman)
+    - Megan Okerlund (@mokerlund)
+    - Giovani Aguirre (@its-gio)  
+* Seeking Teammates: No
+* [Project URl](https://github.com/jraleman/jamstack-2018)
+
+***
+
