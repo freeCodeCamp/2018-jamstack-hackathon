@@ -64,7 +64,7 @@ See the link sent to your email
 
 ##### More info on Discord:
 * You can ask API sponsors questions directly in their respective channel, i.e. `#api-netlify`
-* Pay special attention to `announcements` channel. Do not post here.
+* Pay special attention to `announcements` channel.
 * Ask and answer questions about certain technologies in the `q-and-a-<technology>` channel
 * Have general communication in the `general` channel
 * Find a teammate or a team in the `team-formation-sf-hackathon` channel
