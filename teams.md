@@ -249,3 +249,24 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
+
+# NU-RD
+### We are building a website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+* Teammates:
+    - Veronica 
+    - Lydia
+    - Amy
+    - Rich
+    - Blake
+* Seeking Teammates: No
+* [Project URL](https://github.com/amychan331/nu-rd)
+* NU-RD
+### Project Q&A:
+1. What are you going to build?  
+// A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// Netlify, Fauna DB, React  
+3. What is your plan to execute this idea?  
+// TBD 
+
+***
