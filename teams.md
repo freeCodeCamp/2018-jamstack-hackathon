@@ -82,3 +82,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Ingredea](https://ingredea.netlify.com/)
 
 ***
+
+# TBD
+### TBD
+* Teammates:
+    - Maximo Macchi (@max.1096)
+    - Jordan Henderson (@Jman219)
+    - Nathan Chica (@ch1cachu)
+    - Shajia Abidi (@abidishaija)
+* Seeking Teammates: No
+* [Project URL] TBD
+* Project Name TBD
+
+***
