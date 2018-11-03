@@ -99,7 +99,7 @@ Widget that will take image as input and return tags related to that image along
 Clarifai.
 3. What is your plan to execute this idea?  
 Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are: 
-* Main App - stores state of entire app; handles 
+* Main App - stores state of entire app; handles views
 * API handler - handles calls to API and receiving data
 * View components that render data in various forms
 
