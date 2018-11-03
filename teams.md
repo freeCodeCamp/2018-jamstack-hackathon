@@ -129,8 +129,21 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Tia Esguerra (@Tia)
   - Murrium Zaheer (@murrium123)
   - Perry Chow (@perry)
-* Seeking Teammates: No
-* [Project Repo - TBD](https://github.com)
+- Seeking Teammates: No
+- [Project Repo](https://github.com/PowerPushers/FindMyGetaway)
+- Project Name: Find My Getaway
+
+### Project Q&A:
+ 1. What are you going to build?  
+   A webapp allowing users to find vacation options based on their own submitted photos
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)
+ - Fauna for DB layer
+- Clarafai for image classification
+- Formspree for forms
+ 3. What is your plan to execute this idea?  
+   Project managament through Trello
+   MVP - display all possible vacations and iterate to incorporate Clarafai and Formspree backed features
+
 
 ***
 
