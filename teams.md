@@ -115,3 +115,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# PB&JAM
+### tbd
+* Teammates:
+  - Austin (@austintackaberry)
+  - Reuben (@radotreyes)
+  - Jin
+  - Brandon
+  - Vitz
+* Seeking Teammates: Sure!
+* tbd
+
+***
