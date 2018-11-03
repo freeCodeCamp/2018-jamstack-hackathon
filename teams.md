@@ -32,3 +32,25 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+# POWPAL
+### TBA
+* Teammates:
+    - Yvette Tran (@trantastic)
+    - Teammate Jeff (@jcohen120)
+    - Teammate Du (Dawn) Tram (@du-dawn)
+    - Andrew Yang (@yzy)
+    - Anna Khardina-Vaisman (@AnutaK)
+    - Mariya Mego Vela (@mash-a)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Trantastic/powpal)
+* Project Name: POWPAL
+
+### Project Q&A:
+1. What are you going to build?      
+A web app that empowers voters with information to make informed decisions.     
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)      
+Formspree, Fuana, Clarifai, Hasura, Pilon, ProPublica, Civic Information API   
+3. What is your plan to execute this idea?    
+Create user story, research APIs, divide roles, and have fun! :) (except for Andrew)
+
+***
