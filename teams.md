@@ -34,9 +34,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # QXC
-
 ### TBD
-
 - **Teammates**:
   - Ian Wilson (@iwilsonq#4979)
   - Roman Morozov (@sublimeye#6781)
@@ -45,5 +43,28 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Dennis Xing (@dennis#1656)
 - **Seeking Teammates**: No
 - [Project URL](https://github.com/iwilsonq/qxc)
+
+***
+
+# SmarTea Pants
+### A trivia study app for contestants who are trying to qualify for the TV gameshow Jeopardy
+* Teammates:
+    - Fay Yang (@CodeFay)
+    - Colin King-Bailey (@ckingbailey)
+* Seeking Teammates: Yes
+* [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
+
+***
+
+# "COMING SOON"
+### tbd
+* Teammates:
+    - Jun Sub Choi (@Stard)
+    - Andrew Ngo (@AndyNoAwkward)
+    - David Mai (@2BiK)
+    - Alan Fu (@BrandHeart)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Broke-Bois-Club)
+* Project Name tbd
 
 ***
