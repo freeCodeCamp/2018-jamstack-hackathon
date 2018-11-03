@@ -51,6 +51,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Fay Yang (@CodeFay)
     - Colin King-Bailey (@ckingbailey)
+    - Neil Ricci (@iccir919)
 * Seeking Teammates: Yes
 * [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
 
@@ -90,7 +91,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Teammate Name (@km.#3850)
 * Seeking Teammates: No
 * [Project URL](https://github.com/syedirfan7/airqualityApp)
-*** 
+***
 
 # Count'em All
 ### A simple app to count the number of people attending a gathering
@@ -103,14 +104,44 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Job portal with live video interviewing
+### Me and our team building(on the process) a user-friendly job portal with the live video interviewing.
+
+# Power Pushers
+### App Description TBD
+* Teammates:
+  - Brian Kilrain (@BK)
+  - Warren Schrader (@ShadowBoxerGuy)
+  - Tia Esguerra (@Tia)
+  - Murrium Zaheer (@murrium123)
+  - Perry Chow (@perry)
+* Seeking Teammates: No
+* [Project Repo - TBD](https://github.com)
+
+***
+
 # BadCoders
 ### tbd
+
 * Teammates:
-  - Dinesh
-  - Thinnappan
-  - Anush
+  - Dinesh (@1532j0004kg)
+  - Thinnappan (@thinnappan)
+  - Anush (@Anushkumar06)
 * Seeking Teammates: No
 * [Project Repo](https://github.com/1532j0004kg/hacks)
+* Interactive portal
+
+***
+
+# PB&JAM
+### tbd
+* Teammates:
+  - Austin (@austintackaberry)
+  - Reuben (@radotreyes)
+  - Gin (@wongco)
+  - Brandon (@brandonstinson)
+  - Vincent (@vtam2012)
+* Seeking Teammates: Sure!
 * tbd
 
 ***
@@ -126,3 +157,60 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * AMA
 
 ***
+
+# Codelaboration
+### An app to help you find members for your coding projects
+* Teammates:
+    - Roger (@Rawgher)
+    - Enea (@eneaantonicelli)
+    - Prash (@prashanthr)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/Rawgher/Codelaboration)
+* Codelaboration
+
+***
+
+# MakeSquad
+### Business card app to store user information in a central database and make it accessible using image recognition and augmented reality.
+* Teammates:
+  - Faith (@gottaHaveFaith#8156)
+  - Stephanie (@Zephany#3690)
+  - Edwin (@ecloud#6259)
+  - Johnathan (@jachen3#4296)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/Make-Squad/Snap-Card)
+* Snapcard
+
+***
+#Cartogram
+### Create travel itineraries from just a picture and share your travels!
+* Teammates:
+    - Samantha Maclaren (@Samantha M)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/samantha-m/Cartogram)
+* [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
+
+***
+
+# Cocoon
+### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
+* Teammates:
+    - Alex Pitzer (@hoop)
+    - Mandy Trinh (@mandytrinh)
+    - Billy Le (@billyle)
+    - Jason Serafica (@teknoformula)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/reztip/cocoon)
+* Project Name (Cocoon)
+
+# Russian Hackers
+### tbd
+* Teammates:
+    - Ron (@vokoshyv)
+    - Kevin (@jamalthejanitor#1701)
+* Seeking Teammates: No
+* [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
+* Project Name - tbd
+
+***
+
