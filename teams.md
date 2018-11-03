@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR and tag `@dunphyben` in the comments of that PR.
+### Create a PR 
 
 ### STYLE GUIDE:  
 
@@ -14,6 +14,13 @@
 * Seeking Teammates: Yes/No
 * [Project URL](https://github.com/your-profile/your-project-name)
 * Project Name (ok to say tbd and update later)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 ```
@@ -30,6 +37,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Matt Biilmann (@biilmann)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/your-profile/your-project-name)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 
@@ -51,6 +65,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Fay Yang (@CodeFay)
     - Colin King-Bailey (@ckingbailey)
+    - Neil Ricci (@iccir919)
 * Seeking Teammates: Yes
 * [SmarTea Pants repo on Github](https://github.com/ckingbailey/smarteapants)
 
@@ -90,7 +105,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Teammate Name (@km.#3850)
 * Seeking Teammates: No
 * [Project URL](https://github.com/syedirfan7/airqualityApp)
-*** 
+***
 
 # Count'em All
 ### A simple app to count the number of people attending a gathering
@@ -102,6 +117,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Count'em All
 
 ***
+
+# Job portal with live video interviewing
+### Me and our team building(on the process) a user-friendly job portal with the live video interviewing.
 
 # Power Pushers
 ### App Description TBD
@@ -118,13 +136,52 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 # BadCoders
 ### tbd
+
 * Teammates:
-  - Dinesh
-  - Thinnappan
-  - Anush
+  - Dinesh (@1532j0004kg)
+  - Thinnappan (@thinnappan)
+  - Anush (@Anushkumar06)
 * Seeking Teammates: No
 * [Project Repo](https://github.com/1532j0004kg/hacks)
-* tbd
+* Interactive portal
+
+***
+
+# PB&JAM
+### Real-time blazing-fast, image-recognition, machine-learning picture scavenger hunt
+* Teammates:
+  - Austin (@austintackaberry)
+  - Reuben (@radotreyes)
+  - Gin (@wongco)
+  - Brandon (@brandonstinson)
+  - Vincent (@vtam2012)
+* Seeking Teammates: Sure!
+* https://github.com/radotreyes/SICC-PICCS
+* __SICC PICCS__
+
+***
+
+# AMA
+### An app for people to host personalized Q&As!
+* Teammates:
+    - Dhron Joshi (@dhron)
+    - Mattias Eyram (@mattias)
+    - Yusuf Khaled (@freeman-cortez)
+* Seeking Teammates: No
+* [Project URL](https://github.com/mattiaseyram/JAMStack-Hackathon-Team-App)
+* AMA
+
+***
+
+# Codelaboration
+### An app to help you find members for your coding projects
+* Teammates:
+    - Roger (@Rawgher)
+    - Enea (@eneaantonicelli)
+    - Prash (@prashanthr)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/Rawgher/Codelaboration)
+* Codelaboration
 
 ***
 
@@ -141,7 +198,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 #Cartogram
-### Create travel itineraries from just a picture and share your travels! 
+### Create travel itineraries from just a picture and share your travels!
 * Teammates:
     - Samantha Maclaren (@Samantha M)
 * Seeking Teammates: No
@@ -149,6 +206,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
 
 ***
+
 # Where in the World
 ### "Where was that photo taken?" a real world trivia web app identifying the location of photos in real time
 * Teammates:
@@ -159,3 +217,50 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/gaberoo322/where-in-the-world.git)
 * Project Name (Where in the World)
+  
+# Tripit
+### Track, save, and rate day trip agendas
+* Teammates:
+  - Patrick San Juan (@pdotsani)
+  - Adam Guymon (@aguymon)  
+  - Joshua Kang (@guppykang)
+  - Jingyi Ding (@jingyi)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/guppykang/TripIt)
+* [TripIt!](https://frosty-borg-11d2a6.netlify.com/)
+
+# Cocoon
+### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
+* Teammates:
+    - Alex Pitzer (@hoop)
+    - Mandy Trinh (@mandytrinh)
+    - Billy Le (@billyle)
+    - Jason Serafica (@teknoformula)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/reztip/cocoon)
+* Project Name (Cocoon)
+
+***
+
+# Russian Hackers
+### tbd
+* Teammates:
+    - Ron (@vokoshyv)
+    - Kevin (@jamalthejanitor#1701)
+* Seeking Teammates: No
+* [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
+* Project Name - tbd
+
+***
+
+# Ichi-Go Ichi-E
+### tdb
+* Teammate:
+    - Joey Chung (@jchung05)
+    - Jose Ramon Aleman (@jraleman)
+    - Megan Okerlund (@mokerlund)
+    - Giovani Aguirre (@its-gio)  
+* Seeking Teammates: No
+* [Project URl](https://github.com/jraleman/jamstack-2018)
+
+***
