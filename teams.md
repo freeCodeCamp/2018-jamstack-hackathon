@@ -43,6 +43,5 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Teammate Name (@km.#3850)
 * Seeking Teammates: No
 * [Project URL](https://github.com/syedirfan7/airqualityApp)
-* Project Name (ok to say tbd and update later)
 
 ***
