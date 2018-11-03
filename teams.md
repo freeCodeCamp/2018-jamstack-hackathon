@@ -206,6 +206,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Check Out Cartogram](https://hopeful-chandrasekhar-ebe6b9.netlify.com/)
 
 ***
+  
+# Tripit
+### Track, save, and rate day trip agendas
+* Teammates:
+  - Patrick San Juan (@pdotsani)
+  - Adam Guymon (@aguymon)  
+  - Joshua Kang (@guppykang)
+  - Jingyi Ding (@jingyi)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/guppykang/TripIt)
+* [TripIt!](https://frosty-borg-11d2a6.netlify.com/)
 
 # Cocoon
 ### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
