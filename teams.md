@@ -115,3 +115,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Quilt
+### Social News Site
+* Teammates:
+  - Jamarr Edwards (@jamarr#8205)
+  - Yutam Hacohen  (@YotamHa#7378)
+  - Claudio Bardales (@Chit0)
+  - Jacqulline Beltran (@jackie#7264)
+  - Joshua Aguilar (@mrsnuz#6367)
+* Seeking Teammates: NO
+* [Project Repo](https://github.com/joshuaaguilar20/Quilt)
+* Quilt
+
+***
