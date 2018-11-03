@@ -393,6 +393,18 @@ Divide and conquer! We have one person overseeing the repository, two people wor
 
 ***
 
+# Quilt
+### Social News Site
+* Teammates:
+  - Jamarr Edwards (@jamarr#8205)
+  - Yutam Hacohen  (@YotamHa#7378)
+  - Claudio Bardales (@Chit0)
+  - Jacqulline Beltran (@jackie#7264)
+  - Joshua Aguilar (@mrsnuz#6367)
+* Seeking Teammates: NO
+* [Project Repo](https://github.com/joshuaaguilar20/Quilt)
+* Quilt
+
 # POWPAL
 ### TBA
 * Teammates:
