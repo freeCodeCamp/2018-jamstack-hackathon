@@ -213,6 +213,25 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Where in the World
+### "Where was that photo taken?" a real world trivia web app identifying the location of photos in real time
+* Teammates:
+    - Jeff Appareti (@Jeff Appareti#4361)
+    - Tadas Antanavicius (@Tadas Antanavicius#9028)
+    - Tyler Vick (@TJ Vick#4151)
+    - Gabe Greenfield (@gabe#4067)
+* Seeking Teammates: No
+* [Project URL](https://github.com/gaberoo322/where-in-the-world.git)
+* Project Name (Where in the World)
+1. What are you going to build?  
+    We’re building a live social game: Where in the World. Players go to the website on their mobile phones and join the “lobby”. We periodically “start a game”, whereupon all the players are presented with an image we have queued up. The image is of something somewhat recognizable. Players drop a pin on the provided map, indicating where they think the picture was taken. The game is over in 30 seconds, and the winners (by smallest distance from the actual location) are displayed on the next screen.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    Hasura, Netlify, Google Maps (stretch goal), Clarifai (far stretch goal), Formspree
+3. What is your plan to execute this idea?  
+    Design data/domain model all together --> Pair 1 works on setting up Create React App w/ Apollo, Netlify deploy --> Pair 2 works on getting model into Hasura, preparing endpoint --> Design screens, mocks all together --> Divvy out the front end development tasks to get to functional MVP --> Time permitting, integrate Maps API for answer. Otherwise, implement multiple choice system --> Final preparation for demo (set up actual data) --> Time permitting, create Clarifai AI
+    
+***
+
 # Cocoon
 ### A forum that allows for posting of images that can be configured for rejecting NSFW images. Also supports image tagging.
 * Teammates:
