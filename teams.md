@@ -145,6 +145,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Codelaboration
+### An app to help you find members for your coding projects
+* Teammates:
+    - Roger (@Rawgher)
+    - Enea (@eneaantonicelli)
+    - Prash (@prashanthr)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/Rawgher/Codelaboration)
+* Codelaboration
+
+***
+
 # MakeSquad
 ### Business card app to store user information in a central database and make it accessible using image recognition and augmented reality.
 * Teammates:
