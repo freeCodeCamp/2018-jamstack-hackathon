@@ -266,4 +266,4 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 // The APIs that we are using will be: formspree and Fauna 
 3. What is your plan to execute this idea?
 // Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
-
+***
