@@ -624,3 +624,14 @@ A webapp to create travel albums.
 The APIs that I will be using are: Fauna and Hasura GraphQL.
 3. What is your plan to execute this idea?  
  My plan is to design Data flow diagram, Develop and Deploy.
+
+# Tripit
+### Track, save, and rate day trip agendas
+* Teammates:
+  - Patrick San Juan (@pdotsani)
+  - Adam Guymon (@aguymon)  
+  - Joshua Kang (@guppykang)
+  - Jingyi Ding (@jingyi)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/guppykang/TripIt)
+* [TripIt!](https://tripit.netlify.com)
