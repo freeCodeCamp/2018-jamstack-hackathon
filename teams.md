@@ -94,11 +94,11 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ### Project Q&A:
 1. What are you going to build?  
-Making giveaway for creators and users easier and more accessible / propaGATING creators
+  Making giveaway for creators and users easier and more accessible / propaGATING creators
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-faunaDB, netlify, fromspree, twitter api, instagram api
+  faunaDB, netlify, fromspree, twitter api, instagram api
 3. What is your plan to execute this idea?  
-Delegate each microservices and api/framework to each team member, helping each other along the way of learning new and exciting tech.
+  Delegate each microservices and api/framework to each team member, helping each other along the way of learning new and exciting tech.
 
 ***
 
