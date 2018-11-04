@@ -80,16 +80,25 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# "COMING SOON"
-### tbd
+# RaffleGator
+### Making giveaway for creators and users easier and more accessible / propaGATING creators
 * Teammates:
     - Jun Sub Choi (@Stard)
     - Andrew Ngo (@AndyNoAwkward)
     - David Mai (@2BiK)
     - Alan Fu (@BrandHeart)
+    - Selena Xu (@SelenaX)
+    - Jacob Castro (@Jacobcastro)
 * Seeking Teammates: No
-* [Project URL](https://github.com/Broke-Bois-Club)
-* Project Name tbd
+* [Project URL](https://github.com/RaffleGator/RaffleGator)
+
+### Project Q&A:
+1. What are you going to build?  
+  Making giveaway for creators and users easier and more accessible / propaGATING creators
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+  faunaDB, netlify, fromspree, twitter api, instagram api
+3. What is your plan to execute this idea?  
+  Delegate each microservices and api/framework to each team member, helping each other along the way of learning new and exciting tech.
 
 ***
 
