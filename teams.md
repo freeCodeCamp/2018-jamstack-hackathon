@@ -262,7 +262,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     Hasura, Netlify, Google Maps (stretch goal), Clarifai (far stretch goal), Formspree
 3. What is your plan to execute this idea?  
     Design data/domain model all together --> Pair 1 works on setting up Create React App w/ Apollo, Netlify deploy --> Pair 2 works on getting model into Hasura, preparing endpoint --> Design screens, mocks all together --> Divvy out the front end development tasks to get to functional MVP --> Time permitting, integrate Maps API for answer. Otherwise, implement multiple choice system --> Final preparation for demo (set up actual data) --> Time permitting, create Clarifai AI
-    
+
 ***
 
 # Cocoon
@@ -284,8 +284,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Ron (@vokoshyv)
     - Kevin (@jamalthejanitor#1701)
 * Seeking Teammates: No
-* [Project URL (Subject to change...)](https://github.com/vokoshyv/tea_i_drink_with_JAM_and_bread)
-* Project Name - tbd
+* [Project URL](https://github.com/therussianhackers/zoned)
+* Project Name - Zoned
 
 
 ***
@@ -408,8 +408,8 @@ Split into groups of 3 Front-end developers and 3 Back-end developers.
 1. What are you going to build?  
 We are going to build a web application to help developers attending hackathons find their dream team.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-Formspree, Fauna DB, Netlify 
-3. What is your plan to execute this idea? 
+Formspree, Fauna DB, Netlify
+3. What is your plan to execute this idea?
 Divide and conquer! We have one person overseeing the repository, two people working on the back end (FaunaDB), one person setting up the Netlify Identity widget, and two others designing the UI.
 
 ***
@@ -471,7 +471,7 @@ A trusted political action platform.
 - Possibly IPStack for geolocation information
 
 3. What is your plan to execute this idea?  
-Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected.
 
 * Project Name - TBD
 
@@ -487,11 +487,11 @@ Using Formspree to send emails to representatives. Using Fauna DB  for database 
 * Seeking Teammates: No
 * [Project URL] (https://github.com/maximomacchi/image-recognition-assistant)
 1. What are you going to build?  
-Widget that will take image as input and return tags related to that image along with other data. We will also be building an app that uses our created widget to show it in action. 
+Widget that will take image as input and return tags related to that image along with other data. We will also be building an app that uses our created widget to show it in action.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 Clarifai.
 3. What is your plan to execute this idea?  
-Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are: 
+Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are:
 * Main App - stores state of entire app; handles views
 * API handler - handles calls to API and receiving data
 * View components that render data in various forms
@@ -499,9 +499,9 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 ***
 
 # NU-RD
-### We are building a website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+### We are building a website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation.
 * Teammates:
-    - Veronica 
+    - Veronica
     - Lydia
     - Amy
     - Rich
@@ -511,11 +511,11 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 * NU-RD
 ### Project Q&A:
 1. What are you going to build?  
-// A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+// A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 // Netlify, Fauna DB, React  
 3. What is your plan to execute this idea?  
-// TBD 
+// TBD
 
 ***
 
@@ -556,7 +556,7 @@ An app which helps people learn new languages based on photos in their Instagram
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 Clarifai and Instagram
 3. What is your plan to execute this idea?  
-Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are: 
+Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are:
 * Research APIs
 * Divided into two groups:
 * API Integration
@@ -584,7 +584,7 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 1. What are you going to build?
  Our team is building an application to allow tenants to review rental properties.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)
- The APIs that we are using will be: formspree and Fauna 
+ The APIs that we are using will be: formspree and Fauna
 3. What is your plan to execute this idea?
  Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
 
@@ -609,7 +609,7 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 * [GitHub URL](https://github.com/ashwin747/YoTraveller-JAMStack)
 ### Project Q&A:
 1. What are you going to build?  
-A webapp to create travel albums. 
+A webapp to create travel albums.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 The APIs that I will be using are: Fauna and Hasura GraphQL.
 3. What is your plan to execute this idea?  
