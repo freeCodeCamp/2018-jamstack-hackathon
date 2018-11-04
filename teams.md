@@ -72,11 +72,11 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * SmarTea Pants
 ### Project Q&A:
 1. What are you going to build?  
-// A mobile-responsive, trivia study app to help contestants qualify for the TV gameshow Jeopoardy.
+   A mobile-responsive, trivia study app to help contestants qualify for the TV gameshow Jeopoardy.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
-// Netlify, Fauna, Wikipedia, more to come! 
+   Netlify, Fauna, Wikipedia, more to come! 
 3. What is your plan to execute this idea?  
-// Track workflow in waffle.io. Using Gastby and Netlify for front end, FaunaDB to host questions, and Wikipedia for more fun facts. 
+   Track workflow in waffle.io. Using Gastby and Netlify for front end, FaunaDB to host questions, and Wikipedia for more fun facts. 
 
 ***
 
