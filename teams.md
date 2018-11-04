@@ -519,6 +519,28 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 
 ***
 
+# VisiJAM
+### An application that visualizes data about participants of the 2018 JAMstack Hackathon
+* Teammates:
+    - Sean Nguyen (@Sea)
+    - Ilan Kaim (iknowmagic)
+    - Sarah Kaplan (skaplan)
+    - Juan Areces (@juanA)
+    - Zubin Pratap (@Zubin)
+    - Dave Lau (@doubleUTF)
+* Seeking Teammates: Yes/No
+* [Project URL](https://github.com/your-profile/your-project-name)
+* Project Name (ok to say tbd and update later)
+### Project Q&A:
+1. What are you going to build?  
+A survey form that visualizes data about the participants of the 2018 Jamstack Hackathon and helps users find compatible group members for future hackathons.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Formspree, Fauna, Highcharts, React
+3. What is your plan to execute this idea?  
+Determine the requirements to make the application run, develop a prototype, decide what tools and libraries we are going to use, create a wireframe of what the actual page will look like, delegate tasks and start building the application, finally test it to make sure it works as intended. If we have additional time, we might want to implement more features.
+
+***
+
 # SocialLearn
 ### Learn a new language from your social media with the power of machine learning and your friends' selfies.
 * Teammates:
