@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR 
+### Create a PR
 
 ### STYLE GUIDE:  
 
@@ -555,3 +555,14 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 // Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
 
 ***
+
+# DreamMakers
+### A website that provides scripts for youtube videos.
+* Teammates:
+  - Nyapal (@fatbellynya)
+  - Jasmin (@jazzi)
+  - KJ (@sadboykj)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/jazz2900/dream-makers)
+* Netlify, YouTube
+* Project Name - tbd
