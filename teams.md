@@ -455,3 +455,24 @@ Using Formspree to send emails to representatives. Using Fauna DB  for database 
 * Project Name - TBD
 
 ***
+
+# Image Recognition Assistant
+### Image Recongition Assistant is a React component that can be used anywhere. The component itself is a widget that takes in an image as an input and computes data related to the image, such as tags for the image.
+* Teammates:
+    - Maximo Macchi (@max.1096)
+    - Jordan Henderson (@Jman219)
+    - Nathan Chica (@ch1cachu)
+    - Shajia Abidi (@abidishaija)
+* Seeking Teammates: No
+* [Project URL] (https://github.com/maximomacchi/image-recognition-assistant)
+1. What are you going to build?  
+Widget that will take image as input and return tags related to that image along with other data. We will also be building an app that uses our created widget to show it in action. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Clarifai.
+3. What is your plan to execute this idea?  
+Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are: 
+* Main App - stores state of entire app; handles views
+* API handler - handles calls to API and receiving data
+* View components that render data in various forms
+
+***
