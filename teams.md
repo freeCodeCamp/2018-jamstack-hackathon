@@ -128,3 +128,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Roasted
+### TBD
+* Teammates:
+  - Mike Preis (@mikepreis)
+  - Anwana Ntofon (@antofon)
+  - Arvin Lin (@chogio)
+* Seeking Teammates: No
+* [Project repo](https://github.com/mikepreis/roasted)
+
+***
