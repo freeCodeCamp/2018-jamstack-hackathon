@@ -614,3 +614,24 @@ A webapp to create travel albums.
 The APIs that I will be using are: Fauna and Hasura GraphQL.
 3. What is your plan to execute this idea?  
  My plan is to design Data flow diagram, Develop and Deploy.
+
+
+
+***
+
+# Lazy Calorie Counter
+### Upload an image of the food and get keep track of what you eat based on ingredients
+* Teammate:
+    - Victor Tsang (@vktr)
+    - Allen Wong (@artist)
+   
+* Seeking Teammates: No
+* [Project URl](https://github.com/victorwltsang/lazyCalorieCounter)
+### Project Q&A:
+1. What are you going to build?
+A food dairy app where you upload an image and give an estimate calorie based on ingredients.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)
+ The APIs that we are using will be: clarifai, Fauna 
+3. What is your plan to execute this idea?
+ Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
+***
