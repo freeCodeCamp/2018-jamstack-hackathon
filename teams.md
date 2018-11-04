@@ -537,23 +537,23 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 
 ***
 
-# Rental Review
-### Rental review application
+# Rental Scope
+### Rental property review application
 * Teammates:
     - Kalsang Bhutia (@Avosammy)
     - Hannah Lee (@hannah)
     - Vy Nguyen (@vynguyen)
     - Shoua Chang (@Shoua Chang)
 * Seeking Teammates: No
-* [Project URL](https://github.com/hurlyburly/rentalreviews)
-* Project Name TBD
+* [Project URL](https://github.com/RunHannah/rental-scope)
+* Project Name: Rental Scope
 ### Project Q&A:
 1. What are you going to build?
-// Our team is building an application to allow tenants to review rental properties.
+ Our team is building an application to allow tenants to review rental properties.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)
-// The APIs that we are using will be: formspree and Fauna 
+ The APIs that we are using will be: formspree and Fauna 
 3. What is your plan to execute this idea?
-// Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
+ Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
 
 ***
 
