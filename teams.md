@@ -267,8 +267,3 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 3. What is your plan to execute this idea?
 // Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
 
-<<<<<<< HEAD
-***
-=======
-***
->>>>>>> 77afe16d8b686df1ebfba8943e74bc50211af07b
