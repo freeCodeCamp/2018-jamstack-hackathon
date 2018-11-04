@@ -600,3 +600,17 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 * [Project Repo](https://github.com/jazz2900/dream-makers)
 * Netlify, YouTube
 * Project Name - tbd
+
+# YoTravellers
+#### A Webapp to create travel albums in a public/private model.
+* **Teammates**:
+  - Ashwin (@ashwin47#1900)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/ashwin747/YoTraveller-JAMStack)
+### Project Q&A:
+1. What are you going to build?  
+A webapp to create travel albums. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+The APIs that I will be using are: Fauna and Hasura GraphQL.
+3. What is your plan to execute this idea?  
+ My plan is to design Data flow diagram, Develop and Deploy.
