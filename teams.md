@@ -459,7 +459,7 @@ A trusted political action platform.
 - Possibly IPStack for geolocation information
 
 3. What is your plan to execute this idea?  
-Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
 
 * Project Name - TBD
 
@@ -506,6 +506,36 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 // TBD 
 
 ***
+
+# SocialLearn
+### Learn a new language from your social media with the power of machine learning and your friends' selfies.
+* Teammates:
+    - Manuel Moya (@manuelmoya#2014)
+    - Kyle Smith (@kyle#6166)
+    - Robert Wolf (@Robert Wolf#6955)
+    - Ryan Wiemer (@ryanwiemer#1547)
+    - Anil Kumar Nandamuri (@nandu#6388)
+* Seeking Teammates: No
+* [Project URL] (https://github.com/ryanwiemer/FCC-Hackathon-2018)
+1. What are you going to build?  
+An app which helps people learn new languages based on photos in their Instagram feed
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Clarifai and Instagram
+3. What is your plan to execute this idea?  
+Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are: 
+* Research APIs
+* Divided into two groups:
+* API Integration
+* Front End / Design
+* Whiteboard the user experience flow and identify potential bottlenecks or technical challenges
+* Agree on application and data structure
+* Front End / Design team to start creating the “dumb” components
+* API team to work on authentication and data management
+  Work together to combine and wire up an MVP
+* Polish and look for opportunities to improve visually or otherwise
+
+***
+
 # Rental Review
 ### Rental review application
 * Teammates:
@@ -523,4 +553,5 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 // The APIs that we are using will be: formspree and Fauna 
 3. What is your plan to execute this idea?
 // Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
+
 ***
