@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR 
+### Create a PR
 
 ### STYLE GUIDE:  
 
@@ -213,6 +213,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Roasted
+### TBD
+* Teammates:
+  - Mike Preis (@mikepreis)
+  - Anwana Ntofon (@antofon)
+  - Arvin Lin (@chogio)
+* Seeking Teammates: No
+* [Project repo](https://github.com/mikepreis/roasted)
+
+***
+
 # MakeSquad
 ### Business card app to store user information in a central database and make it accessible using image recognition and augmented reality.
 * Teammates:
@@ -380,7 +391,7 @@ Split into groups of 3 Front-end developers and 3 Back-end developers.
 
 # Hackaform
 
-### "A simple application to help you find and form Hackathon dream teams."
+### "The web application which helps you to find and form hackathon dream team."
 
 - Teammates:
   - Scott Iwako (@iwakoscott)
@@ -388,8 +399,9 @@ Split into groups of 3 Front-end developers and 3 Back-end developers.
   - Gerardo Fernandez (@gerardofer)
   - Lena Ryoo (@lena)
   - Sarmishta Burujupalli (@Sarmishta)
+  - Evghenii Ghimazitdinov(@evgimov)
 - Seeking Teammates: No
-- [Project URL](https://github.com/iwakoscott/hackathon-2018)
+- [Project URL](https://github.com/evgimov/hackaform)
 - Project Name: Hackaform
 
 ### Project Q&A:
@@ -459,7 +471,7 @@ A trusted political action platform.
 - Possibly IPStack for geolocation information
 
 3. What is your plan to execute this idea?  
-Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
+Using Formspree to send emails to representatives. Using Fauna DB  for database interaction and database modeling when users are participating in political discussions. We will use Clarifai's Custom Face Recognition to authenticate users (vs. Troll Bots) so that discussions are real and unaffected. 
 
 * Project Name - TBD
 
@@ -507,7 +519,6 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 
 ***
 
-
 # VisiJAM
 ### An application that visualizes data about participants of the 2018 JAMstack Hackathon
 * Teammates:
@@ -529,3 +540,63 @@ Formspree, Fauna, Highcharts, React
 Determine the requirements to make the application run, develop a prototype, decide what tools and libraries we are going to use, create a wireframe of what the actual page will look like, delegate tasks and start building the application, finally test it to make sure it works as intended. If we have additional time, we might want to implement more features.
 
 ***
+
+# SocialLearn
+### Learn a new language from your social media with the power of machine learning and your friends' selfies.
+* Teammates:
+    - Manuel Moya (@manuelmoya#2014)
+    - Kyle Smith (@kyle#6166)
+    - Robert Wolf (@Robert Wolf#6955)
+    - Ryan Wiemer (@ryanwiemer#1547)
+    - Anil Kumar Nandamuri (@nandu#6388)
+* Seeking Teammates: No
+* [Project URL] (https://github.com/ryanwiemer/FCC-Hackathon-2018)
+1. What are you going to build?  
+An app which helps people learn new languages based on photos in their Instagram feed
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Clarifai and Instagram
+3. What is your plan to execute this idea?  
+Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlify. Components will be written in parallel by team members. Components that will be used so far are: 
+* Research APIs
+* Divided into two groups:
+* API Integration
+* Front End / Design
+* Whiteboard the user experience flow and identify potential bottlenecks or technical challenges
+* Agree on application and data structure
+* Front End / Design team to start creating the “dumb” components
+* API team to work on authentication and data management
+  Work together to combine and wire up an MVP
+* Polish and look for opportunities to improve visually or otherwise
+
+***
+
+# Rental Scope
+### Rental property review application
+* Teammates:
+    - Kalsang Bhutia (@Avosammy)
+    - Hannah Lee (@hannah)
+    - Vy Nguyen (@vynguyen)
+    - Shoua Chang (@Shoua Chang)
+* Seeking Teammates: No
+* [Project URL](https://github.com/RunHannah/rental-scope)
+* Project Name: Rental Scope
+### Project Q&A:
+1. What are you going to build?
+ Our team is building an application to allow tenants to review rental properties.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)
+ The APIs that we are using will be: formspree and Fauna 
+3. What is your plan to execute this idea?
+ Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
+
+***
+
+# DreamMakers
+### A website that provides scripts for youtube videos.
+* Teammates:
+  - Nyapal (@fatbellynya)
+  - Jasmin (@jazzi)
+  - KJ (@sadboykj)
+* Seeking Teammates: No
+* [Project Repo](https://github.com/jazz2900/dream-makers)
+* Netlify, YouTube
+* Project Name - tbd
