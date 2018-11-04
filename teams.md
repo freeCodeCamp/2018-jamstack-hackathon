@@ -476,3 +476,24 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
 * View components that render data in various forms
 
 ***
+
+# NU-RD
+### We are building a website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+* Teammates:
+    - Veronica 
+    - Lydia
+    - Amy
+    - Rich
+    - Blake
+* Seeking Teammates: No
+* [Project URL](https://github.com/amychan331/nu-rd)
+* NU-RD
+### Project Q&A:
+1. What are you going to build?  
+// A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// Netlify, Fauna DB, React  
+3. What is your plan to execute this idea?  
+// TBD 
+
+***
