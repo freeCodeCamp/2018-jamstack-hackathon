@@ -80,6 +80,8 @@ Try playing around with formspree in our sandbox at https://testformspree.com
 
 Get a "contact us" form set up on your website! 
 
+Set up a serverless function to respond to a webhook each time a user submits the form, then fetch the content and use it to do something coool....
+
 ### Docs
 Using formspree is as easy as the `API endpoint` instructions. Try playing around with formspree at https://testformspree.com.
 
@@ -96,6 +98,14 @@ Finally, we will be here at the hackathon and available to help you. Just look f
 <img src="https://lh3.googleusercontent.com/ocJ3qPMgGIJzONipiMk7NADYM2JHtnV25MqdqFrJrheUHMZYbUT3XAxvDHvHGZeTOu4GAyIUVyPmPDpmImwr6sRI0MUENLfAbGNw9B1dLhjh4elL5wR4FipJRCX7qPYPCK1nzD33310=w1274-h1698-no" width="200px">
 
 
+### API (Beta)
+
+We just launched an API beta. Check out the docs here: https://formspree.io/api. 
+
+We're continuing to add to those docs so check back occasionally. Also check out the Discord `#formspree-api` room for updates.
+
+Finally we're gonna offer coupons to people who want to test out our Gold / Platinum features (including APIs). Let us know in discrd or at the table if you want free access.
+
 ### Video tutorial
 Nothing yet, but maybe we'll have one of these posted soon...
 
@@ -103,8 +113,6 @@ Nothing yet, but maybe we'll have one of these posted soon...
 ### Prizes
 
 In person participants that use Formspree in their hackathon project are eligible to win a DJI Spark drone!
-
-Off-site participants that use Formspree will be eligible to win an Amazon Gift Card worth $200. If Amazon gift cards aren't available in your country we will work with you to come up with an equivalent prize.
 
 ***
 
@@ -161,9 +169,9 @@ Top 5 teams will also have the opportunity to feature their hacks on Clarifai's 
 ***
 
 
-# Hasura
+# Hasura GraphQL Engine
 
-Hasura gives you instant, realtime GraphQL APIs for your JAMstack app. With one-click to deploy on Heroku's free tier, you can get started in less than a minute.
+[Hasura](https://hasura.io) is an [open-source](https://github.com/hasura/graphql-engine) service that gives you instant, realtime GraphQL APIs for your JAMstack app. With one-click to deploy on Heroku's free tier, you can get started in less than a minute.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
@@ -191,9 +199,8 @@ Here are some examples of how you can use Hasura:
 
 Here are a few short videos to help you get started:
 
-1. Explore GraphQL queries, mutations and subscriptions with a realtime todo app [(video coming soon)]()
-2. Send an email when a new user is created using Netlify functions [(video coming soon)]()
-3. Integrate authentication/authorization with auth0 [(video coming soon)]()
+1. Get started with Hasura on Heroku [(video)](https://www.youtube.com/watch?v=jUObpSl6dTE)
+2. Explore GraphQL queries, mutations and subscriptions [(video)](https://youtu.be/RjnsY-MG4sk)
 
 ### Support & help
 
@@ -206,14 +213,8 @@ Here are a few short videos to help you get started:
 
 Hasura docs are available at [`docs.hasura.io`](https://docs.hasura.io).
 
-Here are some quick links to get you started:
+Here are some other useful links to get you started:
 
-- [Deployment guide on Heroku](https://docs.hasura.io/1.0/graphql/manual/getting-started/heroku-simple.html)
-- [Making your first GraphQL query](https://docs.hasura.io/1.0/graphql/manual/getting-started/first-graphql-query.html)
-- [Creating tables and columns](https://docs.hasura.io/1.0/graphql/manual/schema/index.html)
-- [Querying data through GraphQL](https://docs.hasura.io/1.0/graphql/manual/queries/index.html)
-- [Modifying data using Mutations](https://docs.hasura.io/1.0/graphql/manual/mutations/index.html)
-- [Getting realtime data using Subscriptions](https://docs.hasura.io/1.0/graphql/manual/subscriptions/index.html)
 - [Create Gatsby sites using GraphQL and Postgres](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/gatsby-postgres-graphql)
 - [Example applications built using Hasura](https://github.com/hasura/graphql-engine/tree/master/community/examples)
 - [Trigger a Lambda function](https://docs.hasura.io/1.0/graphql/manual/getting-started/first-event-trigger.html)
@@ -228,7 +229,7 @@ Client](https://www.apollographql.com/docs/react/). Here are some popular client
 
 ### Prizes
 
-TBA
+**Amazon gift voucher worth $200** for the team with the best application using Hasura GraphQL Engine.
 
 
 ***
