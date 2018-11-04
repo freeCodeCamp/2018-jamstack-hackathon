@@ -216,7 +216,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Snapcard
 
 ***
-#Cartogram
+# Cartogram
 ### Create travel itineraries from just a picture and share your travels!
 * Teammates:
     - Samantha Maclaren (@Samantha M)
