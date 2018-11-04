@@ -380,7 +380,7 @@ Split into groups of 3 Front-end developers and 3 Back-end developers.
 
 # Hackaform
 
-### "A simple application to help you find and form Hackathon dream teams."
+### "The web application which helps you to find and form hackathon dream team."
 
 - Teammates:
   - Scott Iwako (@iwakoscott)
@@ -388,8 +388,9 @@ Split into groups of 3 Front-end developers and 3 Back-end developers.
   - Gerardo Fernandez (@gerardofer)
   - Lena Ryoo (@lena)
   - Sarmishta Burujupalli (@Sarmishta)
+  - Evghenii Ghimazitdinov(@evgimov)
 - Seeking Teammates: No
-- [Project URL](https://github.com/iwakoscott/hackathon-2018)
+- [Project URL](https://github.com/evgimov/hackaform)
 - Project Name: Hackaform
 
 ### Project Q&A:
