@@ -548,7 +548,7 @@ Using pure React. Based off of create-react-app-lambda. Will be hosted on Netlif
     - Zubin Pratap (@Zubin)
     - Dave Lau (@doubleUTF)
 * Seeking Teammates: Yes/No
-* [Project URL](https://github.com/your-profile/your-project-name)
+* [Project URL](https://github.com/zeuslawyer/visiJAM)
 * Project Name (ok to say tbd and update later)
 ### Project Q&A:
 1. What are you going to build?  
