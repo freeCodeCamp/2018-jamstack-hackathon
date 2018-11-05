@@ -99,10 +99,24 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Abhijeet Saxena (@rockyy)
   - Arjun Porwal (@Arjun)
   - Paras Arora (@paras594)
-  - Vishang Soni (@TrekLatte)
 * Seeking Teammates: No
 * [Project Repo](https://github.com/rocky93/ingredea)
 * [Check Out Ingredea](https://ingredea.netlify.com/)
+### Project Q&A:
+1. What are you going to build?  
+    - Build an application for Foodies where once a user signs up and logins they can just upload image/url of their favourite dish and get back list of its Ingredients.
+    - Then suggest more recipes of dishes similar to the Dish image/url they uploaded(Maybe use Youtube Videos?).
+    - If time permits, we plan to add some social features like share recipe, comment, upvote.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    - **[Netlify](https://www.netlify.com/)**: For our static site deployment.
+    - **[Fauna](https://fauna.com/)**: For managing User Database.
+    - **[Formspree](https://formspree.io/)**: For implementing Feedback form on our site.
+    - **[Clariifai](https://clarifai.com/)**: For detecting ingredients of a dish(using its food model).
+    - **[Edamam](http://edamam.com/)**: To suggest dishes & recipes based on ingredients.
+3. What is your plan to execute this idea?
+    - Assign tasks amongst teammates using Trello(Front End & Backend). Once designing basic UI is done, start with login & signup functionality. Then implement Food Scan. Then finish off with Feedback/Contact Us page.
+    - Make sure we have a good lighthouse score. Adding social features like share recipe, comment, upvote etc are good to have(will see if time permits).
+
 ***
 
 # Air Quality App
